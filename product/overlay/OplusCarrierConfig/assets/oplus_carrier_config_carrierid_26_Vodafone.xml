@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string name="default_vm_number_string">22177</string>
+    <boolean name="enableMMSDeliveryReports" value="false"/>
+    <boolean name="enableMMSReadReports" value="false"/>
+    <int name="smsToMmsTextThreshold" value="5"/>
+    <string-array name="feature_access_codes_string_array" num="15">
+        <item value="45"/>
+        <item value="46"/>
+        <item value="112"/>
+        <item value="114"/>
+        <item value="121"/>
+        <item value="132"/>
+        <item value="155"/>
+        <item value="157"/>
+        <item value="211"/>
+        <item value="221"/>
+        <item value="231"/>
+        <item value="311"/>
+        <item value="321"/>
+        <item value="611"/>
+        <item value="621"/>
+    </string-array>
+    <boolean name="show_iccid_in_sim_status_bool" value="true"/>
+    <string name="carrier_ims_user_agent">OPPO_[M]_[S]</string>
+    <!-- #ifdef OPLUS_FEATURE_CALL_RECOVERY_DISABLED -->
+    <!-- Huangkaihui@NETWORK.CALL.2849109, 2022-01-17, add for ringback_timer issue -->
+    <int name="oplus_carrier_ringing_timer_for_recovery_int" value="3610000" />
+    <!-- #endif /*OPLUS_FEATURE_CALL_RECOVERY_DISABLED*/-->
+    <!-- #ifdef OPLUS_FEATURE_CALL -->
+    <!-- Fengweiwei@NETWORK.CALL.3094256, 2022/2/9, add for show call conference manager -->
+    <boolean name="carrier_show_ims_conference_list_without_cep_config" value="true"/>
+    <!-- #endif /*OPLUS_FEATURE_CALL*/-->
+</carrier_config>

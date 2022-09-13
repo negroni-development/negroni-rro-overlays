@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <!--Rahul.Kumar@NW.REG.2350538 26/10/2021,Setting flag as false to not set SPN as Orange-->
+    <boolean name="carrier_name_override_bool" value="false"/>
+    <string name="carrier_name_string"></string>
+    <!--Rahul.Kumar@NW.REG.2350538 26/10/2021,Setting flag as false to not set SPN as Orange-->
+</carrier_config>

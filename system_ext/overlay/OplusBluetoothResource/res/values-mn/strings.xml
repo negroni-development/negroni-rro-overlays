@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">Файлыг хүлээж авах болно. Мэдэгдлийн самбар дээрээс явцыг нь шалгана уу.</string>
+    <string name="bt_toast_2">Файлыг хүлээн авах боломжгүй.</string>
+    <string name="download_cancel">Зогсоох</string>
+    <string name="download_fail_ok">OK</string>
+    <string name="download_line1">Илгээгч: \"%1$s\"</string>
+    <string name="download_line3">Файлын хэмжээ: %1$s</string>
+    <string name="download_line5">Файлыг хүлээн авч байна…</string>
+    <string name="download_ok">Нуух</string>
+    <string name="download_succ_line5">Файлыг хүлээж авсан</string>
+    <string name="enabling_progress_content">Bluetooth-г асааж байна…</string>
+    <string name="inbound_noti_title">Bluetooth хуваалцах: Хүлээн авсан файлууд</string>
+    <string name="incoming_file_confirm_Notification_title">Ирж буй файл</string>
+    <string name="incoming_file_confirm_cancel">Татгалзах</string>
+    <string name="notification_received">Bluetooth хуваалцах: Хүлээн авсан %1$s</string>
+    <string name="notification_received_fail">Bluetooth хуваалцах: Файл %1$s хүлээж аваагүй</string>
+    <string name="notification_receiving">Bluetooth хуваалцах: Хүлээн авч байна %1$s</string>
+    <string name="notification_sending">Bluetooth хуваалцах: Илгээж байна %1$s</string>
+    <string name="notification_sent">Bluetooth хуваалцах: Илгээсэн %1$s</string>
+    <string name="notification_sent_fail">Bluetooth хуваалцах: %1$s файл илгээгдээгүй</string>
+    <string name="outbound_noti_title">Bluetooth хуваалцах: Илгээсэн файлууд</string>
+    <string name="status_canceled">Дамжуулалтыг хэрэглэгч цуцалсан.</string>
+    <string name="status_file_error">Хадгалах сангийн асуудал.</string>
+    <string name="status_forbidden">Дамжуулалтыг хүлээн авагч төхөөрөмжөөс хориглосон.</string>
+    <string name="status_not_accept">Агуулга дэмжигдэхгүй байна.</string>
+    <string name="status_pending">Файл дамжуулалт хараахан эхлээгүй байна.</string>
+    <string name="status_protocol_error">Хүсэлтийг зөв гүйцэтгэх боломжгүй.</string>
+    <string name="status_running">Файл дамжуулалт үргэлжилж байна.</string>
+    <string name="status_success">Файл дамжуулалт амжилттай дууслаа.</string>
+    <string name="status_unknown_error">Тодорхойгүй алдаа.</string>
+    <string name="upload_fail_line1">Файл \"%1$s\" руу илгээгдсэнгүй.</string>
+    <string name="upload_line1">Хэнд: \"%1$s\"</string>
+    <string name="upload_line5">Файл илгээж байна…</string>
+    <string name="upload_succ_line5">Файлыг илгээсэн</string>
+</resources>

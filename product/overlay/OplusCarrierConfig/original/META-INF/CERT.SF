@@ -1,0 +1,437 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA-256-Digest-Manifest: MjPmrmW0S2r2iGIEdDhj9PGikipj/fFjQxCRlw7DJuY=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: zpm5MQV+Q+RFLQ2Lv6rx6BU0HikzS98NnSJgPDCfeIc=
+
+Name: assets/oplus_carrier_config_carrierid_10007_docomo-mvno.xml
+SHA-256-Digest: sysar2VFKgvU1qN2PyPcf1qIbJeS2EmjDrra7lukVZc=
+
+Name: assets/oplus_carrier_config_carrierid_1008_Société-Réunionnai
+ se-du-Radiotéléphone.xml
+SHA-256-Digest: KgiGgQPf0VIzCAHgd4V2V1p7EN3X5RBhYEwb2HR0BCc=
+
+Name: assets/oplus_carrier_config_carrierid_1010_Telekom-Romania.xml
+SHA-256-Digest: MoG4A8P8TZJaQhSJRA035/kdW4Yqy2072+PqVam2gEc=
+
+Name: assets/oplus_carrier_config_carrierid_1011_AXIS.xml
+SHA-256-Digest: 0KBLP4Yi3AslpFeuZTsFe3pesP2uCmR5X0dWs/48hiM=
+
+Name: assets/oplus_carrier_config_carrierid_1187_AT&T.xml
+SHA-256-Digest: xDw0XAUtd3S24UhZGXtK2YksIpcQGviEKPBxhXJ65Ow=
+
+Name: assets/oplus_carrier_config_carrierid_11_Slovak-Telekom.xml
+SHA-256-Digest: 6vT4KSk/EAtZgVyfo0qhknfCa51HcfxQnfTDTRUiS24=
+
+Name: assets/oplus_carrier_config_carrierid_1345_Telstra.xml
+SHA-256-Digest: v51Tu+si+4N6bTz1vI8PDMs7BBqr9xg7ayEdIFOpoYc=
+
+Name: assets/oplus_carrier_config_carrierid_1365_Proximus.xml
+SHA-256-Digest: n3NfM77psnM3sBBhU7XVvBVKZ3ZGVRalwFbSVk8dl+4=
+
+Name: assets/oplus_carrier_config_carrierid_1366_Orange.xml
+SHA-256-Digest: Q0G6pEU0ytwHm8qtL2cN5HMzaZZ7ftxeGOeacOglexk=
+
+Name: assets/oplus_carrier_config_carrierid_13_Telekom.xml
+SHA-256-Digest: UofPpKNi7n6slh37u3PPKcIsHpaxPh4MtWDStM+202I=
+
+Name: assets/oplus_carrier_config_carrierid_1413_Sunrise.xml
+SHA-256-Digest: oygNLdwRAMGC380M6myf1ki4S9A2rIJq85Y9o12Otdo=
+
+Name: assets/oplus_carrier_config_carrierid_1427_Entel.xml
+SHA-256-Digest: D1Nqycorhs/iPfAos61jtDbXVRqy8HkUnEB5Vtw6VTQ=
+
+Name: assets/oplus_carrier_config_carrierid_1428_Movista.xml
+SHA-256-Digest: fZoiaRta149cpEDmkqJSq4P8jIKaCaJpdqqb+GlRP0U=
+
+Name: assets/oplus_carrier_config_carrierid_1429_Claro-CL.xml
+SHA-256-Digest: eiGHCiVY0mG43qQ+ReWaOmUxtX3/tLr6QNidt/JiOvo=
+
+Name: assets/oplus_carrier_config_carrierid_1430_WOM.xml
+SHA-256-Digest: i92PEn3jXZA1MSdezE4RCUimfEFvmsVVPZESJLIahd4=
+
+Name: assets/oplus_carrier_config_carrierid_1435_China-Mobile.xml
+SHA-256-Digest: mUjG5kFqiMq1EurRk0fNA/shLQrgPc67w+jx+s8YbcY=
+
+Name: assets/oplus_carrier_config_carrierid_1436_China-Unicom.xml
+SHA-256-Digest: 6992EHDtOveDb7O5Ib0pAAq38iK1SZ51yvgcXWvAxcI=
+
+Name: assets/oplus_carrier_config_carrierid_1442_Claro-CO.xml
+SHA-256-Digest: N74jFuEqoEgyfCkO+OGPhEVEAnwXnWO0xYZlfZFt2rI=
+
+Name: assets/oplus_carrier_config_carrierid_1449_O2.xml
+SHA-256-Digest: o8EgHi75/EOIaFONZlR6IjCT0nbdoiQ1Ar3lyFAhOcw=
+
+Name: assets/oplus_carrier_config_carrierid_1452_Vodafone.xml
+SHA-256-Digest: 5fiVzuU2g1sjGSECd7p4o74baKKrKlHzh6Juan33mJg=
+
+Name: assets/oplus_carrier_config_carrierid_1453_Telefonica.xml
+SHA-256-Digest: prfH9blh4Gha7TXFA98MNwCg/4OmqpTO3162EqQVnqw=
+
+Name: assets/oplus_carrier_config_carrierid_1454_o2.xml
+SHA-256-Digest: ShqNGrEhFllsCFyMszdTcQlCLuS6N1g1nQ0YoU8xO8k=
+
+Name: assets/oplus_carrier_config_carrierid_1456_O2-(Germany)-GmbH-&-C
+ o-OHG.xml
+SHA-256-Digest: vPMXngDqyuOivCl5wRpaKPx2N4/Vj1hQ6+UwgrXsyV0=
+
+Name: assets/oplus_carrier_config_carrierid_1480_Telia.xml
+SHA-256-Digest: ftgEARgFNfOJbmDyz+XxZDdg44oQzrWx2SpIscRCoa8=
+
+Name: assets/oplus_carrier_config_carrierid_1487_Bouygues-Telecom.xml
+SHA-256-Digest: JcV3uag2SaHGKbfyNtK/KOYTZlB49udkU1CNlYgqfFk=
+
+Name: assets/oplus_carrier_config_carrierid_1492_O2.xml
+SHA-256-Digest: CuMxWMcx6L4rXTHB4BXzgSRDnk5htcSYIQFhw2iE4AE=
+
+Name: assets/oplus_carrier_config_carrierid_1505_Three-Mobile.xml
+SHA-256-Digest: EDZuJc9RfS1e+DGGa9L5Pf/94r4NF0wiGGcclmhbmdw=
+
+Name: assets/oplus_carrier_config_carrierid_1521_Tigo.xml
+SHA-256-Digest: esl22YrValDDdUAEQEGfxb5CJMf1dUSs8mufjL617PI=
+
+Name: assets/oplus_carrier_config_carrierid_1535_Vodafone.xml
+SHA-256-Digest: xIPkkhlQTnAB50BJU3wyQIT4DWWICN19Ltk2HvozFHw=
+
+Name: assets/oplus_carrier_config_carrierid_1573_WINDTRE.xml
+SHA-256-Digest: Fo236NrRmSq/J7r2EvQbHyxTxZ6dZKLNxlt8KvmRc+o=
+
+Name: assets/oplus_carrier_config_carrierid_1575_WINDTRE.xml
+SHA-256-Digest: BLaRgz81HPCRiVLMVsUWTdIIJkE+QCx27bao0Vk7wXE=
+
+Name: assets/oplus_carrier_config_carrierid_1581_au.xml
+SHA-256-Digest: 6YLLNlgahepmQIZZYjnVzvn4KP2XMFZ3SBvPgmqAWp4=
+
+Name: assets/oplus_carrier_config_carrierid_1586_Ooredoo-KW.xml
+SHA-256-Digest: IKJIEYMWQCqJFPINS8v9Smpxe5llCJz9i9BhN0F7nxQ=
+
+Name: assets/oplus_carrier_config_carrierid_1595_Telecom-FL-AG.xml
+SHA-256-Digest: vp+GJkRTcKDUS6IL0XgCXk3qVxcw7aBnGvKuULrccfU=
+
+Name: assets/oplus_carrier_config_carrierid_15_Vodafone.xml
+SHA-256-Digest: SoBI5+YY5ju1ksGSQOz9iR4mQsLheRBuZ9pSKqAUROQ=
+
+Name: assets/oplus_carrier_config_carrierid_1643_Tele2.xml
+SHA-256-Digest: F+x9pItzFZwCLTNVMHxItKLfO7P8fGJ0q7G4MNfMhWs=
+
+Name: assets/oplus_carrier_config_carrierid_1644_KPNTelfort.xml
+SHA-256-Digest: RQU3ASmdFe+AXuRrhNa27jxcFPig/lOuTG1Lj1JFPb0=
+
+Name: assets/oplus_carrier_config_carrierid_1647_Claro-PE.xml
+SHA-256-Digest: QCM+lmQMf2U18J8ZLtMWK3wmqX/01y3fA9wdPWSSKOI=
+
+Name: assets/oplus_carrier_config_carrierid_1658_Plus.xml
+SHA-256-Digest: wDE0DU+Kqqp5G5V/PSSPOtHOBrTg1E1ILM7UGrSggOU=
+
+Name: assets/oplus_carrier_config_carrierid_1659_Orange.xml
+SHA-256-Digest: 2QnbvMARIcMD8K7kxjzf6jU72c4jbEA5l8AdrSDJeI0=
+
+Name: assets/oplus_carrier_config_carrierid_1662_PLAY.xml
+SHA-256-Digest: qRhuzDEq+e7U/g+lulIu+PJ23FqaUYE94R2b4O6VXKM=
+
+Name: assets/oplus_carrier_config_carrierid_1668_NOS.xml
+SHA-256-Digest: Mz9pLD9HR6b09sEs+pt0myBms5ItfQ9r08AgU6n5Jec=
+
+Name: assets/oplus_carrier_config_carrierid_1670_MEO.xml
+SHA-256-Digest: Vkc6wV3gLf8e6JVWgR4DN+wSpBvyfJM2EZ0Bo5o4WNg=
+
+Name: assets/oplus_carrier_config_carrierid_1675_Ooredoo-QA.xml
+SHA-256-Digest: IdXnAWQyNPbmZYjtpcJ5Zw5F1UR1EVHPIOYoyQh+1JQ=
+
+Name: assets/oplus_carrier_config_carrierid_1678_MTC.xml
+SHA-256-Digest: fZhET2Lqwkw/OK08Sg6ecQwj+SIO7OhwsnGFFQjpGUY=
+
+Name: assets/oplus_carrier_config_carrierid_16_Swisscom.xml
+SHA-256-Digest: sWu+SUNR71iLFeolY+udqnsqC+1Dr1yrfvQGvJBegDk=
+
+Name: assets/oplus_carrier_config_carrierid_1713_Orange.xml
+SHA-256-Digest: C3Ayk6e3J+4sQ2bwRRlTYeY/et2AzQATAfGrvbdehig=
+
+Name: assets/oplus_carrier_config_carrierid_1788_Sprint.xml
+SHA-256-Digest: Srmd1Wpj39bUuMg2U4QOBCqtWcXj1H07TQg3MJMkieo=
+
+Name: assets/oplus_carrier_config_carrierid_1839_Verizon-Wireless.xml
+SHA-256-Digest: efHm1y4PzPoBRhuW04fM1oWMBqi+aXcPneDhhDvNfSU=
+
+Name: assets/oplus_carrier_config_carrierid_1894_SoftBank.xml
+SHA-256-Digest: U/cs+oJtC5z8L3Y7Tch73xMdZKVj8V+R2r9siqZEG1g=
+
+Name: assets/oplus_carrier_config_carrierid_18_Vodafone.xml
+SHA-256-Digest: YjFtxB/fnpG+YZE9xb/90Psoa+N6JVaT8IU9mJy7LNw=
+
+Name: assets/oplus_carrier_config_carrierid_1903_3.xml
+SHA-256-Digest: aSmO3G/XbVDpqf6EJOaOGIkupwd/d+9RhXi8acz46J8=
+
+Name: assets/oplus_carrier_config_carrierid_1912_AT&T-MX.xml
+SHA-256-Digest: y9vh6ufMQs1vZTQdnFORGgAGKSBVQJu5zNgAadhClVo=
+
+Name: assets/oplus_carrier_config_carrierid_1913_Telcel.xml
+SHA-256-Digest: 25EJyWq77SwuLT0LFIJkEVN4hVWb7SFp+qwqgTmghXg=
+
+Name: assets/oplus_carrier_config_carrierid_1914_Movistar.xml
+SHA-256-Digest: 2DmG26Lz+ZlyfKTxTjh7mlQTl4mXIABTVMSi00DTdvc=
+
+Name: assets/oplus_carrier_config_carrierid_1915_AT&T-MX.xml
+SHA-256-Digest: ASCdI6DrxuseO/seizOt7R95euzcexTehz93O4s1hQg=
+
+Name: assets/oplus_carrier_config_carrierid_1959_Digi.Mobil.xml
+SHA-256-Digest: laquEpIrN2G0SrCP5/SDY754D5mTmmNaMozbN+ZMvns=
+
+Name: assets/oplus_carrier_config_carrierid_1961_Airtel.xml
+SHA-256-Digest: iq7QU3dxq0jouWpBBsg+TN8yIQNeAUufV7sZszHmXS4=
+
+Name: assets/oplus_carrier_config_carrierid_1968_Etisalat.xml
+SHA-256-Digest: NWOBMDT6k7BFMbi+6NYJZ+LZLhBYHpVBWdQZxbyd2aM=
+
+Name: assets/oplus_carrier_config_carrierid_1972_SA-Zain.xml
+SHA-256-Digest: Nw5x16Qu+c09qQ1vuFfGSI06X5xk9g+JjQM0SfN09nM=
+
+Name: assets/oplus_carrier_config_carrierid_1975_Telenor.xml
+SHA-256-Digest: r9LeWug4KyUPP2iq0HSVDx8aspQhZ9Jzj8XRPuOiwGU=
+
+Name: assets/oplus_carrier_config_carrierid_19_Vodafone.xml
+SHA-256-Digest: OAKLNuwU7exh7TaVcR/UvswezpoXOoJzEHRF4LV7Adg=
+
+Name: assets/oplus_carrier_config_carrierid_1_T-Mobile-US.xml
+SHA-256-Digest: L2Di1T3x0iz1/jHPMN7opNEwnVzWxZRDACK4KG4kVBA=
+
+Name: assets/oplus_carrier_config_carrierid_2018_Reliance-Jio.xml
+SHA-256-Digest: zR7M+jxsJi6fbBbDTz7fCosvgBVeFIaL9dBzHDQu36o=
+
+Name: assets/oplus_carrier_config_carrierid_2091_Bonbon.xml
+SHA-256-Digest: XZIDCN0XNjYfhKPtTtE4ylWFW4YStW4EFSkqVDM+mAI=
+
+Name: assets/oplus_carrier_config_carrierid_2092_congstar.xml
+SHA-256-Digest: 6b71jtuu3kGzfTi4LW3EPEczHMvDQKp8HRvvVyKtFOg=
+
+Name: assets/oplus_carrier_config_carrierid_2093_Tesco.xml
+SHA-256-Digest: LNj6t/sKnL4Q6+I0b7MxD0CAcpjw6o7RNlpeVcMfWxM=
+
+Name: assets/oplus_carrier_config_carrierid_2094_T-Mobile.xml
+SHA-256-Digest: MA3stKyuWx0FZJxTjs5xQ+J7ZucIkdVrUOKU+d/TF8g=
+
+Name: assets/oplus_carrier_config_carrierid_2095_Ben.xml
+SHA-256-Digest: Cy68gPiA0WarQxtrOdMulRHHQhpz4w3BrBaoi3lUyi0=
+
+Name: assets/oplus_carrier_config_carrierid_2096_Heyah.xml
+SHA-256-Digest: IFyPiXTFBEqsGvsrNxvghnTKGXBQ2BkSIF+tZeYABWA=
+
+Name: assets/oplus_carrier_config_carrierid_20_Vodafone.xml
+SHA-256-Digest: g2/k5A+YpiQB6yRsOTLknI+eZBmwms6YZh0K8Xeeu3U=
+
+Name: assets/oplus_carrier_config_carrierid_2100_Ymobile.xml
+SHA-256-Digest: Mwve64JNt9YhZXb8tnNk907OAhteNHBDLhc2rT+9cLc=
+
+Name: assets/oplus_carrier_config_carrierid_2101_BT.xml
+SHA-256-Digest: TbXWyqbchXSgmglRX1MXR8jkq0eZkTRYAcagaUy/2/A=
+
+Name: assets/oplus_carrier_config_carrierid_2102_BT-Business.xml
+SHA-256-Digest: Zra6ZUHdPbxSK/PNFTE8pdg0PqPehlT/emGFZJ9CdAE=
+
+Name: assets/oplus_carrier_config_carrierid_2105_Skinny.xml
+SHA-256-Digest: LX/ICY/jizi4oUxck9DzT4JxCGaoSo2rLuh1rti5qdo=
+
+Name: assets/oplus_carrier_config_carrierid_2109_Rakuten-Mobile.xml
+SHA-256-Digest: YLEePA4ZCiviqoIiIWypwK+lA6deZ/NELnntBuaWgG4=
+
+Name: assets/oplus_carrier_config_carrierid_2118_giffgaff.xml
+SHA-256-Digest: h7QHoKLrGoZKrhMMqvj9mTiPjeSTM1ZPtxFyeZHSBpU=
+
+Name: assets/oplus_carrier_config_carrierid_2131_Altecom.xml
+SHA-256-Digest: GzRNTQUqiozs9B/Y+grWg0M7Bd1j2HXMwNVWo9lIWVA=
+
+Name: assets/oplus_carrier_config_carrierid_2139_sky.xml
+SHA-256-Digest: 3Xojo+edBzLAXL6VkWWFAfPH61IUNvs/7pIz5BhJNQI=
+
+Name: assets/oplus_carrier_config_carrierid_2147_Vodafone-Lab.xml
+SHA-256-Digest: MoXwDqSjBgMeUukopyNkF/33a1oLa9gQgERXSD9S9bg=
+
+Name: assets/oplus_carrier_config_carrierid_21_Vodafone.xml
+SHA-256-Digest: xo+jHSyLSaHjsDG114aZbbJH1vfZtiHnor9q+eI/jA8=
+
+Name: assets/oplus_carrier_config_carrierid_22_Vodafone.xml
+SHA-256-Digest: zxtskRMpxDKSwfWmkwd1kq6ldCrZi+i3ptAkkUJ/ImA=
+
+Name: assets/oplus_carrier_config_carrierid_2361_o2.xml
+SHA-256-Digest: hUL0Ag6MBwSfMpSp2zu8N+lSFS3bd5U7Bkezcy9aZq4=
+
+Name: assets/oplus_carrier_config_carrierid_2364_Vodafone.xml
+SHA-256-Digest: fQtWfipma9rBpuJzJFk5A2JLybZu6eJjEp+F9Nmcj28=
+
+Name: assets/oplus_carrier_config_carrierid_2365_Hrvatski-Telekom.xml
+SHA-256-Digest: 2JjyyMMY//iWJWKbZufFLmrsmnIpRKfLiTW4t5CPnek=
+
+Name: assets/oplus_carrier_config_carrierid_2366_Swisscom.xml
+SHA-256-Digest: 6VtfiB6i0KCVsJHZpQPY4h3UJMfRoZ6u6B2NF3GS1Oo=
+
+Name: assets/oplus_carrier_config_carrierid_2367_T-Mobile.xml
+SHA-256-Digest: YLlKy8He4/FZtivnQS9DQ4mrFZzSVmzAhtAImn5xWGQ=
+
+Name: assets/oplus_carrier_config_carrierid_2369_Orange.xml
+SHA-256-Digest: RELT8rNAUhbWZ+jdJ+0jPTl1wBY+Px7qA1TuDk6GUTQ=
+
+Name: assets/oplus_carrier_config_carrierid_2378_Vi.xml
+SHA-256-Digest: GnSYfL/t98Pqrr2BuDfmIXCbobG40IWJKhqpbqe1tOg=
+
+Name: assets/oplus_carrier_config_carrierid_2380_Vodafone.xml
+SHA-256-Digest: hwEN3gghfw1g3Nl4aty/4VoGbX3kAxJGrhbw6bS6DZo=
+
+Name: assets/oplus_carrier_config_carrierid_2385_Slovak-Telekom.xml
+SHA-256-Digest: 51/Qk1fA4cm2af1mV6fc4RHizCq02ZOPUCi9HPfauU8=
+
+Name: assets/oplus_carrier_config_carrierid_2386_T-Mobile.xml
+SHA-256-Digest: rP3qggG/I9Q7Y1tZkxCW1AOmJ6t7RQPUuzpyL0Eaqpw=
+
+Name: assets/oplus_carrier_config_carrierid_2387_Vodafone.xml
+SHA-256-Digest: 4fctL9B/3m1HBLmmBYMP+ZjGXQ/z3d4PkeeTk4n04ys=
+
+Name: assets/oplus_carrier_config_carrierid_2391_Vodafone.xml
+SHA-256-Digest: 3C73JoHR9B/8f9yQ7kNfY3XTms+jS1szi32Va1LDVxA=
+
+Name: assets/oplus_carrier_config_carrierid_2394_T-Mobile.xml
+SHA-256-Digest: IH/LhfHAQzOv+mVXKBT37+Tacj+DW7GlJrZThl5/h+c=
+
+Name: assets/oplus_carrier_config_carrierid_2395_Telekom.xml
+SHA-256-Digest: NzAr+MKQJZhYCal3ydK7aemRPa8tE5hlcBVeXU68fnA=
+
+Name: assets/oplus_carrier_config_carrierid_2396_MK-Telekom.xml
+SHA-256-Digest: H6uLgVa2zC+kS/gGEwEmhx1abdRpQsTwS36k8Rz7p8A=
+
+Name: assets/oplus_carrier_config_carrierid_2397_Vodafone.xml
+SHA-256-Digest: bFpThxmR0kmmNHLMnUB6yLBPrm+4nlIH/51eA0hSwxY=
+
+Name: assets/oplus_carrier_config_carrierid_2398_Vodafone.xml
+SHA-256-Digest: zBkNLYSAHRFnkeXKDHYwbqzB2P3/CzvAYuQl3W6r9kI=
+
+Name: assets/oplus_carrier_config_carrierid_2399_Vodafone.xml
+SHA-256-Digest: wDiyl71vplm60Hg5R/jkDaSyKsYa9ExY5r7b3u20cJQ=
+
+Name: assets/oplus_carrier_config_carrierid_23_Vodafone.xml
+SHA-256-Digest: G36kXQBZQwlekD0KK5cPVvETmuTJrrzCZRj5G1HasuU=
+
+Name: assets/oplus_carrier_config_carrierid_2401_Magyar-Telekom.xml
+SHA-256-Digest: 7bGCpyFi9NYr2P/bdYxQDt6pNwGmYk0amFEh9iOhd/k=
+
+Name: assets/oplus_carrier_config_carrierid_2416_Fastweb-SpA.xml
+SHA-256-Digest: ndnz4JNiLYdouvnxH1jD3hHR+hHTbM0YkTKzopts8E4=
+
+Name: assets/oplus_carrier_config_carrierid_2422_MTX.xml
+SHA-256-Digest: /eIYDnoRl4hyXbsuaZHXYVOCSBuUmN8iap94ZUzTQSQ=
+
+Name: assets/oplus_carrier_config_carrierid_2429_Rakuten-Mobile(MNO).x
+ ml
+SHA-256-Digest: O3drEGVgbqLs5r7OlCEppoGBnKnhF4NB1cuRomvNf48=
+
+Name: assets/oplus_carrier_config_carrierid_2468_Tele2.xml
+SHA-256-Digest: V4U+xxBLVt2vPVA7LUVNUvTsXgI7gxXbGnrNQ+qXui0=
+
+Name: assets/oplus_carrier_config_carrierid_24_Vodacom.xml
+SHA-256-Digest: n5a/8jlS+ab8dzza62GWQ4+q3KbG2qMzzxGHzpwrTNM=
+
+Name: assets/oplus_carrier_config_carrierid_2507_UPC.xml
+SHA-256-Digest: +xpVZrPlsPl3whbFBoW78KNeGKDhCgjBWJUjeMOfXfg=
+
+Name: assets/oplus_carrier_config_carrierid_25_Vodafone.xml
+SHA-256-Digest: EOAvsOyx1jZWhLRtQJCJ/+rEJ+Yn7mkE7SOl8xkmJGk=
+
+Name: assets/oplus_carrier_config_carrierid_26_Vodafone.xml
+SHA-256-Digest: IX1JqWZJwBwbI1M9XBOMjDDrezSRwT4m0OuF6GSt5mw=
+
+Name: assets/oplus_carrier_config_carrierid_27_SFR.xml
+SHA-256-Digest: ULkty7kqO+wmbDQl80KoqfjVHaZ8q2TmeK9EcDXaKj4=
+
+Name: assets/oplus_carrier_config_carrierid_28_Vodafone.xml
+SHA-256-Digest: ItfIpMmRKImaqM9FuIPV2gW/oqMSWhqjmsJ0mGeMjn8=
+
+Name: assets/oplus_carrier_config_carrierid_29_Vodafone.xml
+SHA-256-Digest: +o+0M+6Eunzks5GXzQaDp1xc+P5N6b1AYD8iNrJLujg=
+
+Name: assets/oplus_carrier_config_carrierid_2_EE.xml
+SHA-256-Digest: BZDbx01AAIZcIHfLORRLnRFXeUr2FbmqRhbtH3ZKQoA=
+
+Name: assets/oplus_carrier_config_carrierid_32_Orange.xml
+SHA-256-Digest: Xu/P+NWYIe0Bs0Go+1VofK2J9eGPLBZeVRF/0d0a5SI=
+
+Name: assets/oplus_carrier_config_carrierid_33_TIM.xml
+SHA-256-Digest: 0kT2eq/q/nS4bRErJChmIH4PO2NoMRbfY7WR9D1u/54=
+
+Name: assets/oplus_carrier_config_carrierid_34_Movistar.xml
+SHA-256-Digest: dA7RKpGE4Kf+CZNQgneWuvkW4SwDWpBsLTK0HMJ/GKM=
+
+Name: assets/oplus_carrier_config_carrierid_3_Telekom.xml
+SHA-256-Digest: ck0FGlETFUEIaR55T9WA6vgIjOcQlHmxhW1L8alpxRg=
+
+Name: assets/oplus_carrier_config_carrierid_4_T-Mobile.xml
+SHA-256-Digest: BKetRdOSTnfnAZUYaekKWAx17xt2ykFYsVNnanLndE8=
+
+Name: assets/oplus_carrier_config_carrierid_5_T-Mobile.xml
+SHA-256-Digest: B+SixmkpVkf5cnF7XmuE9TSXpAfshG6l4DbgW7dt9bU=
+
+Name: assets/oplus_carrier_config_carrierid_656_Telia.xml
+SHA-256-Digest: mKlm4dxVudC77DvOWA6SKq5I2CyFVWYBYkDGaRLapyI=
+
+Name: assets/oplus_carrier_config_carrierid_658_Altice-Dominicana.xml
+SHA-256-Digest: KbSg93L5Gg4crY3SbawH9Jp+V+VoUmDSowkQ/mMjWYI=
+
+Name: assets/oplus_carrier_config_carrierid_678_Orange.xml
+SHA-256-Digest: wkJWlqm5TLhMcJTJTHGMa3Or40inKhZraYGJz4xLBuo=
+
+Name: assets/oplus_carrier_config_carrierid_679_Yoigo.xml
+SHA-256-Digest: +e72npdsgSb7tksfzUfqYYoQZaXnquCup/MXB1upo98=
+
+Name: assets/oplus_carrier_config_carrierid_6_T-Mobile.xml
+SHA-256-Digest: RSDWL+eEWRm8pSBW3RxXE9D8piKNU+3tLKxGE5MohSk=
+
+Name: assets/oplus_carrier_config_carrierid_717_Virgin.xml
+SHA-256-Digest: kHiY8aKnkF43lnzZjU1oO9ERMeae7rjCJbfcgmLY0nk=
+
+Name: assets/oplus_carrier_config_carrierid_718_EE.xml
+SHA-256-Digest: 5cNQi7JcpkMRouPyPQ/2mBm/HQ4k7V9PXs8L5s19Dno=
+
+Name: assets/oplus_carrier_config_carrierid_747_COSMOTE.xml
+SHA-256-Digest: aOpi4k7tgjNquCe5GNwMy04OXOSmQWkeFIZoA2Fk16g=
+
+Name: assets/oplus_carrier_config_carrierid_792_3.xml
+SHA-256-Digest: ayaooHiQqsCZqtvXfH1iNjbVEGGCUgri1C2EkLAY+ds=
+
+Name: assets/oplus_carrier_config_carrierid_793_Meteor-Mobile-Communic
+ ations-Ltd.xml
+SHA-256-Digest: irZ8/xXwcwtQnW0XAEMfD4pQ4THlfTmLPn097XHxUdU=
+
+Name: assets/oplus_carrier_config_carrierid_796_Partner-Communications
+ -Co-Ltd.xml
+SHA-256-Digest: LkiY9PvMSeHxlpufFPeqSb5Kz1XL6BTWFC6Ri2CvTus=
+
+Name: assets/oplus_carrier_config_carrierid_7_T-Mobile.xml
+SHA-256-Digest: pN8z5i17OR/1QSt+JnaUWEmj9h4pzDtpo8MUoDaSfwk=
+
+Name: assets/oplus_carrier_config_carrierid_802_Vi.xml
+SHA-256-Digest: eKhcyeABkhim+eNuvEnOOI+JTu4dSdmggA2vW9yfHRs=
+
+Name: assets/oplus_carrier_config_carrierid_897_Orange.xml
+SHA-256-Digest: L+69kOPfbgayvn8mXA5CsyFkcVgAnySS2PNLlmBlSnM=
+
+Name: assets/oplus_carrier_config_carrierid_8_Magyar-Telekom.xml
+SHA-256-Digest: 5hSwnqrbrvZv0olxbNsGL+m712IGF/9NSZx3IsL1tMA=
+
+Name: assets/oplus_carrier_config_carrierid_962_Nepal-Telecommunicatio
+ ns.xml
+SHA-256-Digest: v7xbTCBCQVEqaakCZs6Ijnn5/BTbLgtG8CVDkMcZy/g=
+
+Name: assets/oplus_carrier_config_carrierid_968_Spark-NZ.xml
+SHA-256-Digest: U4T1HFTviyE7IVg46VKM7arJmH3u4jlnWsCt8GLN2Pk=
+
+Name: assets/oplus_carrier_config_carrierid_969_2degrees.xml
+SHA-256-Digest: XT8GfADy+eXQ72uN6c37djvQljHrdSL7PyjYdCDZii8=
+
+Name: assets/oplus_carrier_config_carrierid_9_Hrvaski-Telekom.xml
+SHA-256-Digest: 9WMHq09KLVULVPyaHMLuY7/J1nqRec9xmVnHZstQLzI=
+
+Name: res/xml/vendor_oplus_common.xml
+SHA-256-Digest: WviFVqpFijiQxnDhkYbf6J7XB9i7weH81naBVh9tGA4=
+
+Name: resources.arsc
+SHA-256-Digest: HoN1LTylbgUvVtlQDoaSr5WmDaEaYZfOqmFDOlpH5Kc=
+

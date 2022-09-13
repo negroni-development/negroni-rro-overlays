@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string  name="carrier_ims_user_agent">OPPO_[M]_[S]</string>
+    <string name="default_vm_number_string">+420608989898</string>
+    <string name="wfc_spn_customize">Vodafone WiFi volání</string>
+    <int name="smsToMmsTextThreshold" value="6"/>
+    <boolean name="enableMMSDeliveryReports" value="true"/>
+    <boolean name="enableMMSReadReports" value="true"/>
+    <boolean name="mmsRoamingAutoRetrieveByDefault" value="true"/>
+    <boolean name="groupChatDefaultsToMMS" value="false"/>
+    <!-- Mark.Ma@NETWORK.SIM.991450, 2021/01/21, Show iccid info in setting->SIM card state for VDF.CZ [OCR.516844.7.VDF.CZ] -->
+    <boolean name="show_iccid_in_sim_status_bool" value="true"/>
+    <string-array name="feature_access_codes_string_array" num="15">
+        <item value="45"/>
+        <item value="46"/>
+        <item value="112"/>
+        <item value="114"/>
+        <item value="121"/>
+        <item value="132"/>
+        <item value="155"/>
+        <item value="157"/>
+        <item value="211"/>
+        <item value="221"/>
+        <item value="231"/>
+        <item value="311"/>
+        <item value="321"/>
+        <item value="611"/>
+        <item value="621"/>
+    </string-array>
+</carrier_config>

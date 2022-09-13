@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 2Hr/QmWc1hYriT7Q7K7WRvRSGEBr238qZELds+Bu2Ds=
+
+Name: resources.arsc
+SHA-256-Digest: 9QNhB4yqHSw6S9lZJbvOo8+aIg8owhnYnM6Dq14YYEA=
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string-array name="carrier_metered_apn_types_strings" num="4">
+        <item value="default" />
+        <item value="mms" />
+        <item value="dun" />
+        <item value="supl" />
+    </string-array>
+    <string name="wfc_spn_customize">WiFi Calling</string>
+</carrier_config>

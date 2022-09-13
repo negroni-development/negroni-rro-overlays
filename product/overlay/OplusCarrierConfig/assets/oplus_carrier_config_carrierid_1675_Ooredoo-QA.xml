@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="config_oplus_show_video_call_forward" value="true" />
+    <boolean name="oplus_support_video_cf_bool" value="true" />
+</carrier_config>

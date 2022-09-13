@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="force_build_mms_over_wifi_apns" value="true" />
+    <string name="default_vm_number_string">759</string>
+    <string name="default_vm_number_roaming_string">07488222000</string>
+    <string name="wfc_spn_customize">Sky WiFiCall</string>
+</carrier_config>

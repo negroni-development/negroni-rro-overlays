@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_defaultDialer">com.android.contacts</string>
+    <string name="wfcSpnFormat_spn_wifi">%s Wi-Fi</string>
+</resources>

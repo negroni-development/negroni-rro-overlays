@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="voicemail_notification_persistent_bool" value="true" />
+    <!-- MengXiangPeng@NETWORK.DATA,2131000, 2021/09/06, Add ATT voicemail-->
+    <string name="default_vm_number_string">*86</string>
+    <!--MengXiangPeng@NETWORK.DATA.2137200 ADD for roaming request -->
+    <string-array name="non_roaming_operator_string_array" num="2">
+        <item value="334020"/>
+        <item value="33403"/>
+    </string-array>
+</carrier_config>

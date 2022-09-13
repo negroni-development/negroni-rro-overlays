@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="carrier_default_data_roaming_enabled_bool" value="true"/>
+    <int name="wfc_spn_format_idx_int" value="4" />
+    <string name="default_vm_number_string">+48602950000</string>
+    <boolean name="display_hd_audio_property_bool" value="false"/>
+    <boolean name="smsUsesSimpleCharactersOnly" value="true"/>
+    <boolean name="enableWapPushSI" value="true"/>
+    <boolean name="mmsRoamingAutoRetrieveByDefault" value="true"/>
+</carrier_config>

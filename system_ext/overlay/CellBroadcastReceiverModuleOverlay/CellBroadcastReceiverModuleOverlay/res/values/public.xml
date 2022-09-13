@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="show_presidential_alerts_settings" id="0x7f010002" />
+    <public type="bool" name="enable_alert_speech_default" id="0x7f010000" />
+    <public type="bool" name="show_alert_speech_setting" id="0x7f010001" />
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="enabledMMS" value="false"/>
+    <boolean name="carrier_supports_ss_over_ut_bool" value="true" />
+    <string-array name="ims_reasoninfo_mapping_string_array" num="2">
+        <item value="1014|decline|510"/>
+        <item value="1014|call rejected by user|510"/>
+    </string-array>
+    <int name="parameters_used_for_lte_signal_bar_int" value="5"/>
+    <int-array name="lte_rsrp_thresholds_int_array" num="4">
+        <item value="-125" />
+        <item value="-120" />
+        <item value="-115" />
+        <item value="-105" />
+    </int-array>
+    <int-array name="lte_rssnr_thresholds_int_array" num="4">
+        <item value="-5" />
+        <item value="-3" />
+        <item value="0" />
+        <item value="3" />
+    </int-array>
+    <string-array name="call_presentation_mapping_string_array" num="2">
+        <item value="Anonymous|2"/>
+        <item value="Interaction with other service|3"/>
+    </string-array>
+    <boolean name="config_oplus_support_volte_only_bool" value="true" />
+    <string  name="carrier_ims_user_agent">OPPO [M]</string>
+    <int name="carrier_customized_nricon_config" value="5" />
+</carrier_config>

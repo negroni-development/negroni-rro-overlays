@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <!-- ranganatha.r@NETWORK.IMS.2251446, 2021/09/29, WFC SPN Name customization for Germany-O2 -->
+    <string name="wfc_spn_customize">o2 – de WLAN</string>
+    <!-- Philip.Huang,zhangjian@NETWORK.IMS.1055224,2021/03/26,Show IMS conference list without CEP [OCR.1003647.16.Telefonica.DE] -->
+    <boolean name="carrier_show_ims_conference_list_without_cep_config" value="true"/>
+    <!-- #endif OPLUS_FEATURE_SHOW_IMS_CONFERENCE_LIST_WITHOUT_CEP_CONFIG -->
+</carrier_config>

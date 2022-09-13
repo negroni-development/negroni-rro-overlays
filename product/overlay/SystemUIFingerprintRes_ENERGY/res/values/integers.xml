@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="kgd_osfingerprint_element_anim_frames">45</integer>
+    <integer name="kgd_osfingerprint_element_anim_rate">3</integer>
+    <integer name="kgd_osfingerprint_fadein_anim_frames">24</integer>
+    <integer name="kgd_osfingerprint_fadein_anim_rate">2</integer>
+    <integer name="kgd_osfingerprint_fadeout_anim_frames">24</integer>
+    <integer name="kgd_osfingerprint_fadeout_anim_rate">2</integer>
+</resources>

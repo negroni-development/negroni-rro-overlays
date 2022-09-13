@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string name="default_vm_number_string">501501501</string>
+    <string name="wfc_spn_customize">Orange WiFi Calling</string>
+    <!-- Matt.ma/Enco.Yuan@NETWORK.MMS.589843, 2020/11/11, Google Message config for Orange.PL[OCR.589843.2.Orange.PL] -->
+    <int name="httpSocketTimeout" value="120000"/>
+    <int name="maxMessageSize" value="600000"/>
+    <!-- lulin@NETWORK.SMS.1638846, 2021/06/07, Add for pl orange mms config, [OCR.1645396.7.Orange.PL] -->
+    <boolean name="mmsRoamingAutoRetrieveByDefault" value="true"/>
+</carrier_config>

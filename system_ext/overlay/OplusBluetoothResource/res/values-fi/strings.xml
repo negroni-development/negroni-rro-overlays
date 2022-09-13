@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">Tiedosto otetaan vastaan. Näet siirron tilan Ilmoitukset-paneelissa.</string>
+    <string name="bt_toast_2">Tiedostoa ei voi vastaanottaa.</string>
+    <string name="download_cancel">Lopeta</string>
+    <string name="download_fail_ok">OK</string>
+    <string name="download_line1">Lähettäjä: %1$s</string>
+    <string name="download_line3">Tiedostokoko: %1$s</string>
+    <string name="download_line5">Vastaanotetaan tiedostoa…</string>
+    <string name="download_ok">Piilota</string>
+    <string name="download_succ_line5">Tiedosto vastaanotettu</string>
+    <string name="enabling_progress_content">Otetaan Bluetooth käyttöön...</string>
+    <string name="inbound_noti_title">Bluetooth-jako: Vastaanotetut tiedostot</string>
+    <string name="incoming_file_confirm_Notification_title">Saapuva tiedosto</string>
+    <string name="incoming_file_confirm_cancel">Hylkää</string>
+    <string name="notification_received">Bluetooth-jako: %1$s vastaanotettu</string>
+    <string name="notification_received_fail">Bluetooth-jako: tiedostoa %1$s ei vastaanotettu</string>
+    <string name="notification_receiving">Bluetooth-jako: vastaanotetaan tiedostoa %1$s</string>
+    <string name="notification_sending">Bluetooth-jako: lähetetään tiedostoa %1$s</string>
+    <string name="notification_sent">Bluetooth-jako: lähetä %1$s</string>
+    <string name="notification_sent_fail">Bluetooth-jako: tiedostoa %1$s ei lähetetty</string>
+    <string name="outbound_noti_title">Bluetooth-jako: Lähetetyt tiedostot</string>
+    <string name="status_canceled">Käyttäjä peruutti tiedonsiirron.</string>
+    <string name="status_file_error">Tallennusongelma.</string>
+    <string name="status_forbidden">Kohdelaite kieltää siirron.</string>
+    <string name="status_not_accept">Sisältöä ei tueta.</string>
+    <string name="status_pending">Tiedostonsiirto ei ole vielä alkanut.</string>
+    <string name="status_protocol_error">Pyyntö ei ole käsiteltävissä.</string>
+    <string name="status_running">Tiedostonsiirto on käynnissä.</string>
+    <string name="status_success">Tiedostonsiirto onnistui.</string>
+    <string name="status_unknown_error">Tuntematon virhe.</string>
+    <string name="upload_fail_line1">Tiedostoa ei lähetetty vastaanottajalle %1$s.</string>
+    <string name="upload_line1">Vastaanottaja: %1$s</string>
+    <string name="upload_line5">Lähetetään tiedostoa…</string>
+    <string name="upload_succ_line5">Tiedosto lähetetty</string>
+</resources>

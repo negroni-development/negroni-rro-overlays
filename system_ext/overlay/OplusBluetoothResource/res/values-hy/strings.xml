@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">Դուք կստանաք ֆայլը: Առաջընթացի մասին տեղեկացեք Ծանուցումների վահանակից:</string>
+    <string name="bt_toast_2">Հնարավոր չէ ստանալ ֆայլը:</string>
+    <string name="download_cancel">Դադարեցնել</string>
+    <string name="download_fail_ok">Հաստատել</string>
+    <string name="download_line1">Ումից՝ «%1$s»</string>
+    <string name="download_line3">Ֆայլի չափը՝ %1$s</string>
+    <string name="download_line5">Ֆայլի ստացում...</string>
+    <string name="download_ok">Թաքցնել</string>
+    <string name="download_succ_line5">Ֆայլը ստացվել է</string>
+    <string name="enabling_progress_content">Bluetooth-ը միանում է...</string>
+    <string name="inbound_noti_title">Bluetooth համօգտագործում՝ ֆայլերը ստացված են</string>
+    <string name="incoming_file_confirm_Notification_title">Մուտքային ֆայլ</string>
+    <string name="incoming_file_confirm_cancel">Մերժել</string>
+    <string name="notification_received">Bluetooth համօգտագործում՝ ստացվեց %1$s-ը</string>
+    <string name="notification_received_fail">Bluetooth համօգտագործում՝ %1$s ֆայլը չի ստացվել</string>
+    <string name="notification_receiving">Bluetooth համօգտագործում՝ %1$s-ը ստացվում է</string>
+    <string name="notification_sending">Bluetooth համօգտագործում՝ ուղարկվում է %1$s-ը</string>
+    <string name="notification_sent">Bluetooth համօգտագործում՝ %1$s-ն ուղարկված է</string>
+    <string name="notification_sent_fail">Bluetooth համօգտագործում՝ %1$s ֆայլը չի ուղարկվել</string>
+    <string name="outbound_noti_title">Bluetooth համօգտագործում՝ ֆայլերն ուղարկված են</string>
+    <string name="status_canceled">Փոխանցումը չեղարկվել է օգտատիրոջ կողմից:</string>
+    <string name="status_file_error">Կրիչի խնդիր:</string>
+    <string name="status_forbidden">Փոխանցումն արգելված է նպատակային սարքի կողմից:</string>
+    <string name="status_not_accept">Բովանդակությունը չի աջակցվում:</string>
+    <string name="status_pending">Ֆայլի փոխանցումը դեռ չի մեկնարկել:</string>
+    <string name="status_protocol_error">Հարցումը հնարավոր չէ ճշգրտորեն մշակել:</string>
+    <string name="status_running">Ֆայլի փոխանցումն ընթացքի մեջ է:</string>
+    <string name="status_success">Ֆայլերի փոխանցումը հաջողությամբ ավարտվել է:</string>
+    <string name="status_unknown_error">Անհայտ սխալ:</string>
+    <string name="upload_fail_line1">Ֆայլը չի ուղարկվել «%1$s»-ին:</string>
+    <string name="upload_line1">Ում՝ «%1$s»</string>
+    <string name="upload_line5">Ֆայլն ուղարկվում է...</string>
+    <string name="upload_succ_line5">Ֆայլն ուղարկված է</string>
+</resources>

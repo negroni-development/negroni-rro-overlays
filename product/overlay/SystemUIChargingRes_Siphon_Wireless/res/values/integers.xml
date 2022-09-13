@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="kgd_wireless_charging_anim_frames">62</integer>
+    <integer name="kgd_wireless_charging_anim_rate">3</integer>
+</resources>

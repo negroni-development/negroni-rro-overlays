@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string-array name="carrier_metered_apn_types_strings" num="4">
+        <item value="default" />
+        <item value="mms" />
+        <item value="dun" />
+        <item value="supl" />
+    </string-array>
+    <int name="parameters_used_for_lte_signal_bar_int" value="5"/>
+    <int-array name="only_single_dc_allowed_int_array" num="5">
+        <item value="3"/>
+        <item value="9"/>
+        <item value="10"/>
+        <item value="11"/>
+        <item value="15"/> 
+    </int-array>
+    <int-array name="lte_rsrp_thresholds_int_array" num="4">
+        <item value="-127" />  <!-- SIGNAL_STRENGTH_POOR -->
+        <item value="-123" />  <!-- SIGNAL_STRENGTH_MODERATE -->
+        <item value="-121" />  <!-- SIGNAL_STRENGTH_GOOD -->
+        <item value="-117" />  <!-- SIGNAL_STRENGTH_GREAT -->
+    </int-array>
+    <int-array name="lte_rssnr_thresholds_int_array" num="4">
+        <item value="-19" />  <!-- SIGNAL_STRENGTH_POOR -->
+        <item value="-3" />  <!-- SIGNAL_STRENGTH_MODERATE -->
+        <item value="3" />  <!-- SIGNAL_STRENGTH_GOOD -->
+        <item value="1" />  <!-- SIGNAL_STRENGTH_GREAT -->
+    </int-array>
+    <boolean name="config_oplus_hide_2g_only" value="true" />
+    <boolean name="carrier_supports_ss_over_ut_bool" value="true"/>
+    <int name="carrier_customized_nricon_config" value="5" />
+    <!-- #ifdef OPLUS_FEATURE_SPN_AS_DISPLAYNAME -->
+    <!-- shengtao.wu@NETWORK.SIM.2097433, 2021/09/29, Add for set spn as displayname -->
+    <string name="carrier_name_string">SoftBank</string>
+    <!-- #endif OPLUS_FEATURE_SPN_AS_DISPLAYNAME -->
+</carrier_config>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string name="vvm_type_string">vvm_type_omtp</string>
+        <string name="vvm_destination_number_string">21101</string>
+        <int name="vvm_port_number_int" value="20481" />
+        <boolean name="vvm_prefetch_bool" value="true" />
+        <boolean name="vvm_cellular_data_required_bool" value="true" />
+        <boolean name="vvm_ssl_enabled_bool" value="false" />
+        <boolean name="vvm_legacy_mode_enabled_bool" value="false" />
+        <string-array name="vvm_disabled_capabilities_string_array" num="1">
+            <item value="STARTTLS"/>
+        </string-array>
+        <string name="vvm_client_prefix_string">//VVM</string>
+        <string name="default_vm_number_string">888</string>
+
+    <!-- Start, LinkZhang@NETWORK.SMS, 2021/10/08, refactor for add UST carrier -->
+    <boolean name="force_build_mms_over_wifi_apns" value="true" />
+    <!-- End, LinkZhang@NETWORK.SMS, 2021/10/08, refactor for add UST carrier -->
+
+        <!--#ifdef OPLUS_BUG_COMPATIBILITY-->
+        <!--DengShaSha@NETWORK.IMS.3608596,2022/05/09,Wi-Fi calling display not expected for Orange France -->
+        <int name="wfc_spn_format_idx_int" value="0" />
+        <!-- #endif /* OPLUS_BUG_COMPATIBILITY */ -->
+        <int name="wfc_flight_mode_spn_format_idx_int" value="9" />
+        <!-- LuoGuangzhou@NETWORK.SMS.CONFIG.2607190,2020/05/12,Add for T-mobile,Movistar,Orange,Google Message default config -->
+        <boolean name="mmsRoamingAutoRetrieveByDefault" value="false"/>
+        <!--Haicheng.Wu@NETWORK.SMS.44465 , 2020/07/14, Add for SMS config -->
+        <boolean name="enableMultipartSMS" value="true"/>
+        <int name="smsToMmsTextThreshold" value="-1"/>
+</carrier_config>

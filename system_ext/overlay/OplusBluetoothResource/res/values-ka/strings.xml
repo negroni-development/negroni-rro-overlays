@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">ფაილი მიღებული იქნება. შეამოწმეთ პროგრესი შეტყობინებების დაფაზე.</string>
+    <string name="bt_toast_2">ფაილის მიღება ვერ ხერხდება.</string>
+    <string name="download_cancel">შეწყვეტა</string>
+    <string name="download_fail_ok">კარგი</string>
+    <string name="download_line1">გამგზავნი: „%1$s“</string>
+    <string name="download_line3">ფაილის ზომა: %1$s</string>
+    <string name="download_line5">მიმდინარეობს ფაილის მიღება…</string>
+    <string name="download_ok">დამალვა</string>
+    <string name="download_succ_line5">ფაილი მიღებულია</string>
+    <string name="enabling_progress_content">Bluetooth-ის ჩართვა…</string>
+    <string name="inbound_noti_title">Bluetooth გაზიარება: მიღებული ფაილები</string>
+    <string name="incoming_file_confirm_Notification_title">შემომავალი ფაილი</string>
+    <string name="incoming_file_confirm_cancel">უარყოფა</string>
+    <string name="notification_received">Bluetooth გაზიარება: მიღებულია %1$s</string>
+    <string name="notification_received_fail">Bluetooth გაზიარება: ფაილი %1$s არ მიღებულა</string>
+    <string name="notification_receiving">Bluetooth გაზიარება: %1$s ფაილის მიღება</string>
+    <string name="notification_sending">Bluetooth გაზიარება: %1$s-ის გაგზავნა</string>
+    <string name="notification_sent">Bluetooth გაზიარება: გაიგზავნა %1$s</string>
+    <string name="notification_sent_fail">Bluetooth გაზიარება: ფაილი %1$s არ გაიგზავნა</string>
+    <string name="outbound_noti_title">Bluetooth გაზიარება: გაგზავნილი ფაილები</string>
+    <string name="status_canceled">ტრანსფერი გაუქმდა მომხმარებლის მიერ.</string>
+    <string name="status_file_error">მეხსიერების შეცდომა.</string>
+    <string name="status_forbidden">ტრანსფერი აკრძალულია სამიზნე მოწყობილობის მიერ.</string>
+    <string name="status_not_accept">კონტენტი მხარდაჭერილი არ არის.</string>
+    <string name="status_pending">ფაილის ტრანსფერი ჯერ არ დაწყებულა.</string>
+    <string name="status_protocol_error">მოთხოვნის სწორად დამუშავება ვერ ხერხდება.</string>
+    <string name="status_running">მიმდინარეობს ფაილის ტრანსფერი.</string>
+    <string name="status_success">ფაილის ტრანსფერი წარმატებით დასრულდა.</string>
+    <string name="status_unknown_error">უცნობი შეცდომა.</string>
+    <string name="upload_fail_line1">ფაილი არ გაიგზავნა „%1$s“-თან.</string>
+    <string name="upload_line1">მიმღები: „%1$s“</string>
+    <string name="upload_line5">ფაილი იგზავნება…</string>
+    <string name="upload_succ_line5">ფაილი გაიგზავნა</string>
+</resources>

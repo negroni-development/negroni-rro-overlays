@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">Fitxategia jasoko da. Egoera kontrolatzeko, joan Jakinarazpenen panelera.</string>
+    <string name="bt_toast_2">Ezin da fitxategia jaso.</string>
+    <string name="download_cancel">Gelditu</string>
+    <string name="download_fail_ok">Ados</string>
+    <string name="download_line1">Igorlea: \"%1$s\"</string>
+    <string name="download_line3">Fitxategiaren tamaina: %1$s</string>
+    <string name="download_line5">Fitxategia jasotzen…</string>
+    <string name="download_ok">Ezkutatu</string>
+    <string name="download_succ_line5">Fitxategia jaso da</string>
+    <string name="enabling_progress_content">Bluetooth-a aktibatzen…</string>
+    <string name="inbound_noti_title">Bluetooth bidez partekatzea: fitxategiak jaso dira</string>
+    <string name="incoming_file_confirm_Notification_title">Sarrerako fitxategia</string>
+    <string name="incoming_file_confirm_cancel">Baztertu</string>
+    <string name="notification_received">Bluetooth bidez partekatzea: %1$s fitxategia jaso da</string>
+    <string name="notification_received_fail">Bluetooth bidez partekatzea: ez da jaso %1$s fitxategia</string>
+    <string name="notification_receiving">Bluetooth bidez partekatzea: %1$s fitxategia jasotzen</string>
+    <string name="notification_sending">Bluetooth bidez partekatzea: %1$s fitxategia bidaltzen</string>
+    <string name="notification_sent">Bluetooth bidez partekatzea: %1$s fitxategia bidali da</string>
+    <string name="notification_sent_fail">Bluetooth bidez partekatzea: ez da bidali %1$s fitxategia</string>
+    <string name="outbound_noti_title">Bluetooth bidez partekatzea: fitxategiak bidali dira</string>
+    <string name="status_canceled">Erabiltzaileak bertan behera utzi du transferentzia.</string>
+    <string name="status_file_error">Memoria-arazoa.</string>
+    <string name="status_forbidden">Xede-gailuak transferentzia debekatu du.</string>
+    <string name="status_not_accept">Ez da edukia onartzen.</string>
+    <string name="status_pending">Ez da fitxategi-transferentzia oraindik hasi.</string>
+    <string name="status_protocol_error">Ezin da eskaera behar bezala kudeatu.</string>
+    <string name="status_running">Fitxategi-transferentzia abian da.</string>
+    <string name="status_success">Fitxategi-transferentzia behar bezala osatu da.</string>
+    <string name="status_unknown_error">Errore ezezaguna.</string>
+    <string name="upload_fail_line1">Fitxategia ez zaio \"%1$s\" hartzaileari bidali.</string>
+    <string name="upload_line1">Hartzailea: \"%1$s\"</string>
+    <string name="upload_line5">Fitxategia bidaltzen…</string>
+    <string name="upload_succ_line5">Fitxategia bidali da</string>
+</resources>

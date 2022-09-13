@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="enableMMSDeliveryReports" value="true"/>
+    <boolean name="enableMMSReadReports" value="true"/>
+    <int name="smsToMmsTextThreshold" value="5"/>
+    <string name="default_vm_number_string">171</string>
+    <string name="wfc_spn_customize">Vodafone WiFi Calling</string>
+    <boolean name="groupChatDefaultsToMMS" value="false"/>
+    <boolean name="show_iccid_in_sim_status_bool" value="true"/>
+    <string  name="carrier_ims_user_agent">OPPO_[M]_[S]</string>
+    <!-- #ifdef OPLUS_FEATURE_CALL_RECOVERY_DISABLED -->
+    <!-- Huangkaihui@NETWORK.CALL.2849109, 2022-01-17, add for ringback_timer issue -->
+    <int name="oplus_carrier_ringing_timer_for_recovery_int" value="250000" />
+    <!-- #endif /*OPLUS_FEATURE_CALL_RECOVERY_DISABLED*/-->
+    <boolean name="groupChatDefaultsToMMS" value="false"/>
+</carrier_config>

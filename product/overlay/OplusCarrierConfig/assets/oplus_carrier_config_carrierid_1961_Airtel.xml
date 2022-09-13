@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <!-- liuchen1@NETWORK.IMS.1985261, 2021/08/13, add for IN Airtel to disable vowifi while APM on -->
+    <boolean name="wos_flight_mode_support_bool" value="false" />
+</carrier_config>

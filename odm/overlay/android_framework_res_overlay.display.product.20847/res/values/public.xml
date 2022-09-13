@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="config_dualLightSensorSupport" id="0x7f010000" />
+    <public type="dimen" name="config_auxLightSensorLuxLimit" id="0x7f020000" />
+    <public type="dimen" name="status_bar_height_landscape" id="0x7f020001" />
+    <public type="dimen" name="status_bar_height_portrait" id="0x7f020002" />
+    <public type="integer" name="config_stableDeviceDisplayHeight" id="0x7f030000" />
+    <public type="integer" name="config_stableDeviceDisplayWidth" id="0x7f030001" />
+    <public type="string" name="config_auxDisplayLightSensorType" id="0x7f040000" />
+    <public type="string" name="config_mainBuiltInDisplayCutout" id="0x7f040001" />
+    <public type="string" name="config_mainBuiltInDisplayCutoutRectAppSwitchResolution" id="0x7f040002" />
+    <public type="string" name="config_mainDisplayLightSensorType" id="0x7f040003" />
+</resources>

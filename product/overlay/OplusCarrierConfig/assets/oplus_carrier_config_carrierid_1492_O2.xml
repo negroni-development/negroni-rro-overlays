@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="vvm_cellular_data_required_bool" value="true" />
+    <string name="vvm_destination_number_string">901</string>
+    <boolean name="display_hd_audio_property_bool" value="false"/>
+    <string name="default_vm_number_string">901</string>
+    <boolean name="mmsRoamingAutoRetrieveByDefault" value="false"/>
+    <boolean name="smsUsesSimpleCharactersOnly" value="true"/>
+    <boolean name="smsEncodingChangeable" value="true"/>
+    <boolean name="groupChatDefaultsToMMS" value="false"/>
+    <string name="wfc_spn_customize">O2 WiFiCall</string>
+    <!--Haicheng.Wu@NETWORK.SMS.44465 , 2020/07/14, Add for SMS config -->
+    <boolean name="enableMultipartSMS" value="true"/>
+    <int name="smsToMmsTextThreshold" value="-1"/>
+    <!--Peng.Ma@NETWORK.CONFIG.45953,2020/05/12, Add for Telefonica  UK(O2)default config-->
+    <int name="maxMessageSize" value="307200"/>
+</carrier_config>

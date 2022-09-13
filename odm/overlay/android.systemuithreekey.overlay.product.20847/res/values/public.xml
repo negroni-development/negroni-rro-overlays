@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="dimen" name="three_key_down_dialog_position" id="0x7f010000" />
+    <public type="dimen" name="three_key_middle_dialog_position" id="0x7f010001" />
+    <public type="dimen" name="three_key_up_dialog_position" id="0x7f010002" />
+</resources>

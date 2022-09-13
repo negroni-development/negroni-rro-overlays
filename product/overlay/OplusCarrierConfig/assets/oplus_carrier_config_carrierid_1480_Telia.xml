@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+        <!-- ranganatha.r@NETWORK.CALL.2651601, 2021/11/30, Disable HD icon for 2G call -->
+    <boolean name="gsm_cdma_calls_can_be_hd_audio" value="false"/>
+        <!-- ranganatha.r@NETWORK.CALL.2844913, 2022/01/12, Allow WFC roam preference mode changes -->
+    <boolean name="editable_wfc_roaming_mode_bool" value="true"/>
+</carrier_config>

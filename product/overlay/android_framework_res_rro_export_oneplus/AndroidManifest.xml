@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="31" android:compileSdkVersionCodename="12" package="android.framework.res.rro.oneplus" platformBuildVersionCode="31" platformBuildVersionName="12">
+    <application android:allowBackup="false" android:extractNativeLibs="false" android:hasCode="false"/>
+    <overlay android:category="category.android.framework.res" android:isStatic="true" android:priority="1000" android:targetPackage="android"/>
+</manifest>

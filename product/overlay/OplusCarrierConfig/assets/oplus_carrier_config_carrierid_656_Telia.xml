@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+        <!-- ranganatha.r@NETWORK.CALL.2844913, 2022/01/12, Allow WFC roam preference mode changes -->
+    <boolean name="editable_wfc_roaming_mode_bool" value="true"/>
+</carrier_config>

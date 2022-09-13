@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">ಫೈಲ್‌ ಸ್ವೀಕರಿಸಲಾಗುತ್ತದೆ. ಅಧಿಸೂಚನೆ ಫಲಕದಲ್ಲಿ ಪ್ರಗತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="bt_toast_2">ಫೈಲ್‌ ಸ್ವೀಕರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="download_cancel">ನಿಲ್ಲಿಸಿ</string>
+    <string name="download_fail_ok">ಸರಿ</string>
+    <string name="download_line1">ಇಂದ: \"%1$s\"</string>
+    <string name="download_line3">ಫೈಲ್‌ ಗಾತ್ರ: %1$s</string>
+    <string name="download_line5">ಫೈಲ್‌ ಸ್ವೀಕರಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="download_ok">ಮರೆಮಾಡು</string>
+    <string name="download_succ_line5">ಫೈಲ್‌ ಸ್ವೀಕರಿಸಲಾಗಿದೆ</string>
+    <string name="enabling_progress_content">ಬ್ಲೂಟೂತ್‌ ಆನ್‌ ಮಾಡಲಾಗುತ್ತಿದೆ…</string>
+    <string name="inbound_noti_title">ಬ್ಲೂಟೂತ್‌ ಹಂಚಿಕೆ: ಫೈಲ್‌ಗಳನ್ನು ಸ್ವೀಕರಿಸಲಾಗಿದೆ</string>
+    <string name="incoming_file_confirm_Notification_title">ಒಳಬರುತ್ತಿರುವ ಫೈಲ್</string>
+    <string name="incoming_file_confirm_cancel">ನಿರಾಕರಿಸಿ</string>
+    <string name="notification_received">ಬ್ಲೂಟೂತ್‌ ಹಂಚಿಕೆ: %1$s ಸ್ವೀಕರಿಸಲಾಗಿದೆ</string>
+    <string name="notification_received_fail">ಬ್ಲೂಟೂತ್‌ ಹಂಚಿಕೆ: ಫೈಲ್‌ %1$s ಸ್ವೀಕರಿಸಿಲ್ಲ</string>
+    <string name="notification_receiving">ಬ್ಲೂಟೂತ್‌ ಹಂಚಿಕೆ: %1$s ಸ್ವೀಕರಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="notification_sending">ಬ್ಲೂಟೂತ್‌ ಹಂಚಿಕೆ: %1$s ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ</string>
+    <string name="notification_sent">ಬ್ಲೂಟೂತ್‌ ಹಂಚಿಕೆ: %1$s ಕಳುಹಿಸಲಾಗಿದೆ</string>
+    <string name="notification_sent_fail">ಬ್ಲೂಟೂತ್‌ ಹಂಚಿಕೆ: %1$s ಫೈಲ್‌‌ ಕಳುಹಿಸಲಾಗಿಲ್ಲ</string>
+    <string name="outbound_noti_title">ಬ್ಲೂಟೂತ್‌ ಹಂಚಿಕೆ: ಕಳುಹಿಸಲಾಗಿರುವ ಫೈಲ್‌‌ಗಳು</string>
+    <string name="status_canceled">ಬಳಕೆದಾರರ ಮೂಲಕ ವರ್ಗಾವಣೆಯನ್ನು ರದ್ದುಪಡಿಸಲಾಗಿದೆ.</string>
+    <string name="status_file_error">ಸಂಗ್ರಹಣೆಯ ಸಮಸ್ಯೆ.</string>
+    <string name="status_forbidden">ಉದ್ದೇಶಿತ ಸಾಧನದಿಂದ ವರ್ಗಾವಣೆಯನ್ನು ನಿಷೇಧಿಸಲಾಗಿದೆ.</string>
+    <string name="status_not_accept">ವಿಷಯ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ.</string>
+    <string name="status_pending">ಫೈಲ್‌‌ ವರ್ಗಾವಣೆ ಇನ್ನೂ ಪ್ರಾರಂಭಿಸಿಲ್ಲ.</string>
+    <string name="status_protocol_error">ವಿನಂತಿಯನ್ನು ಸರಿಯಾಗಿ ನಿರ್ವಹಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+    <string name="status_running">ಫೈಲ್‌‌ ವರ್ಗಾವಣೆಯು ಚಾಲ್ತಿಯಲ್ಲಿದೆ.</string>
+    <string name="status_success">ಫೈಲ್‌ ವರ್ಗಾವಣೆಯು ಸಂಪೂರ್ಣವಾಗಿ ಯಶಸ್ವಿಯಾಗಿದೆ.</string>
+    <string name="status_unknown_error">ಅಪರಿಚಿತ ದೋಷ.</string>
+    <string name="upload_fail_line1">\"%1$s\" ಇವರಿಗೆ ಫೈಲ್‌ ಕಳುಹಿಸಲಾಗಲಿಲ್ಲ.</string>
+    <string name="upload_line1">ಇವರಿಗೆ: \"%1$s\"</string>
+    <string name="upload_line5">ಫೈಲ್‌ ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="upload_succ_line5">ಫೈಲ್‌ ಕಳುಹಿಸಲಾಗಿದೆ</string>
+</resources>

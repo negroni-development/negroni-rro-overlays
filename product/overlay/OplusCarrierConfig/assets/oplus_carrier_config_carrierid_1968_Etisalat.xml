@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="allowEnablingWapPushSI" value="false"/>
+    <boolean name="enableWapPushSI" value="true"/>
+    <boolean name="smsUsesSimpleCharactersOnly" value="true"/>
+    <boolean name="enableMultipartSMS" value="true"/>
+    <int name="wfc_spn_format_idx_int" value="11" />
+    <!--KangJin@PSW.DATA.1098995 2021/02/08，config sms for Etisalat  -->
+    <int name="smsToMmsTextThreshold" value="5"/>
+    <string name="default_vm_number_string">444</string>
+</carrier_config>

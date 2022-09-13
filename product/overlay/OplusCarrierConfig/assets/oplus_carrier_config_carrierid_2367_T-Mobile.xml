@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="editable_wfc_roaming_mode_bool" value="true"/>
+    <boolean name="carrier_default_data_roaming_enabled_bool" value="true"/>
+    <!-- #ifdef OPLUS_BUG_COMPATIBILITY-->
+    <!-- lulin@NETWORK.CALL.1981786, 2022/04/27, Changed wfc_spn for operator on WFC -->
+    <int name="wfc_spn_format_idx_int" value="4" />
+    <!-- #endif OPLUS_BUG_COMPATIBILITY-->
+</carrier_config>

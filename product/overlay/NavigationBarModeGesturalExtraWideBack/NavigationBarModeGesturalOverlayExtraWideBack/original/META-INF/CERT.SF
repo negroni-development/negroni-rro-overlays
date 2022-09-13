@@ -1,0 +1,11 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA-256-Digest-Manifest: j/zrdnuDEav0JF3RLbsa9ldmKFcT+esyUf+4vMEe828=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 7Qp5h1VMaeLs8/2U26JacM7pmz97H4TeAiRzWr3qSqw=
+
+Name: resources.arsc
+SHA-256-Digest: 76WcwgdVky8VFTWjMkRwEqMDtodKIYeFAS0gU0kF/9Y=
+

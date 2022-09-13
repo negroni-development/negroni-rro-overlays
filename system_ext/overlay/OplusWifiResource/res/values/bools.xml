@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_wifiAllowInsecureEnterpriseConfigurationsForSettingsAndSUW">true</bool>
+    <bool name="config_wifiBridgedSoftApSupported">false</bool>
+    <bool name="config_wifiEnableLinkedNetworkRoaming">false</bool>
+    <bool name="config_wifiMultiStaNetworkSwitchingMakeBeforeBreakEnabled">false</bool>
+    <bool name="config_wifiSoftapResetMaxClientSettingConfig">false</bool>
+    <bool name="config_wifi_connected_mac_randomization_supported">true</bool>
+    <bool name="config_wifi_p2p_mac_randomization_supported">true</bool>
+</resources>

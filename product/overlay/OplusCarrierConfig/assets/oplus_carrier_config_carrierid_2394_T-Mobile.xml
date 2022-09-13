@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+   <string name="default_vm_number_string">+420603123311</string>
+   <boolean name="show_iccid_in_sim_status_bool" value="true"/>
+   <boolean name="carrier_wfc_supports_ims_preferred_bool" value="true" />
+   <!--wen.ye@NETWORK.MMS.44259,2020/11/10, Google Message config for DTAG.cz-->
+   <boolean name="allowEnablingWapPushSI" value="false"/>
+   <boolean name="enableWapPushSI" value="true"/>
+   <boolean name="smsUsesSimpleCharactersOnly" value="true"/>
+   <boolean name="enableMultipartSMS" value="true"/>
+   <int name="smsToMmsTextThreshold" value="3"/>
+   <string name="wfc_spn_customize">T-Mobile CZ Wi-Fi</string>
+</carrier_config>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">ফাইল প্রাপ্ত করা হবে। বিজ্ঞপ্তি প্যানেলে প্রগতি চেক করুন।</string>
+    <string name="bt_toast_2">ফাইল প্রাপ্ত করা যাবে না।</string>
+    <string name="download_cancel">থামান</string>
+    <string name="download_fail_ok">ঠিক আছে</string>
+    <string name="download_line1">প্রেরক: \"%1$s\"</string>
+    <string name="download_line3">ফাইল আকার: %1$s</string>
+    <string name="download_line5">ফাইল প্রাপ্ত হচ্ছে…</string>
+    <string name="download_ok">লুকান</string>
+    <string name="download_succ_line5">ফাইল প্রাপ্ত করা হয়েছে</string>
+    <string name="enabling_progress_content">ব্লুটুথ চালু করা হচ্ছে...</string>
+    <string name="inbound_noti_title">ব্লুটুথ share: প্রাপ্ত করা ফাইলগুলি</string>
+    <string name="incoming_file_confirm_Notification_title">আগত ফাইল</string>
+    <string name="incoming_file_confirm_cancel">অস্বীকার করুন</string>
+    <string name="notification_received">ব্লুটুথ share: %1$s প্রাপ্ত করা হয়েছে</string>
+    <string name="notification_received_fail">ব্লুটুথ share: %1$s ফাইল প্রাপ্ত করা হয়নি</string>
+    <string name="notification_receiving">ব্লুটুথ share: %1$s প্রাপ্ত করা হচ্ছে</string>
+    <string name="notification_sending">ব্লুটুথ share: %1$s পাঠানো হচ্ছে</string>
+    <string name="notification_sent">ব্লুটুথ share: %1$s পাঠানো হয়েছে</string>
+    <string name="notification_sent_fail">ব্লুটুথ share: %1$s ফাইল পাঠানো হয়নি</string>
+    <string name="outbound_noti_title">ব্লুটুথ share: পাঠানো ফাইলগুলি</string>
+    <string name="status_canceled">ব্যবহারকারী দ্বারা ট্রান্সফার বাতিল করা হয়েছে।</string>
+    <string name="status_file_error">স্টোরেজ সমস্যা।</string>
+    <string name="status_forbidden">টার্গেট ডিভাইস দ্বারা ট্রান্সফার নিষিদ্ধ করা হয়েছে।</string>
+    <string name="status_not_accept">কন্টেন্ট সমর্থিত নয়।</string>
+    <string name="status_pending">ফাইল ট্রান্সফার করা এখনও শুরু হয়নি।</string>
+    <string name="status_protocol_error">অনুরোধ সঠিকভাবে পরিচালনা করা যাবে না।</string>
+    <string name="status_running">ফাইল ট্রান্সফার করা চলছে।</string>
+    <string name="status_success">ফাইল ট্রান্সফার সফলভাবে সম্পন্ন হয়েছে।</string>
+    <string name="status_unknown_error">অজানা ত্রুটি৷</string>
+    <string name="upload_fail_line1">\"%1$s\" কে ফাইলটি পাঠানো হয়নি।</string>
+    <string name="upload_line1">প্রাপক: \"%1$s\"</string>
+    <string name="upload_line5">ফাইল পাঠানো হচ্ছে...</string>
+    <string name="upload_succ_line5">ফাইল পাঠানো হয়েছে</string>
+</resources>

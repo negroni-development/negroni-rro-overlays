@@ -1,0 +1,204 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA-256-Digest-Manifest: uKwiA/1HM5paNxECMbuftRMyVFcswQm6vN8eDYc9ucE=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: dzKSq6nVYL4B+MTyaZlXEpi5xiYOyF5ojBxrlSPbiAc=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_0.png
+SHA-256-Digest: mz+7f3jfGuwnZMHnF9Mfhjx+Jra3LHM/wnCOsHZ/+AI=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_1.png
+SHA-256-Digest: m0vDXBmiFX7l3rwVB/z1yHC5FNnKuC4G1cOwExppYTA=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_10.png
+SHA-256-Digest: IBxLZVTnvJ/4UB6wlh9aiPUBJ2MPw6X7Z9n6ZBP8s+w=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_11.png
+SHA-256-Digest: KyMOByjLhuUnrq+JQkHlCCKOP5At+WsnV2MfyLd0R0I=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_12.png
+SHA-256-Digest: zInxQWhGdckGnirY6Ii9Xjmu89Z2ZFLr6QTzNUdIh4E=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_13.png
+SHA-256-Digest: JtQZ0S2Y58JqpIIzzXspj3JpphiamehDKaobasaQMZ4=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_14.png
+SHA-256-Digest: srOEyb34vM3Q19boJvjl3zj5Y+xapx3Ek4jy5Y6lmNI=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_15.png
+SHA-256-Digest: /Qjfp2dCjZ1rrZLZzj8uOJZ7YX1VBSoH4m7D1EzI7tk=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_16.png
+SHA-256-Digest: kMVBot3oyMM30V0yPT1p8Yjs4mCRrFkr3zfKTnnPKlA=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_17.png
+SHA-256-Digest: amStV4pIpc2RtkzuPGh412xmroBQ8p7N7iGxiEk2w6o=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_18.png
+SHA-256-Digest: YsLhMNjtZXfWFkQFwpPE1mzRrSMgEAcnSPbkKJ8a3oQ=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_19.png
+SHA-256-Digest: ucihFbSFtusUelharEnOmV/iZiPuBiWCF720LDiUMbQ=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_2.png
+SHA-256-Digest: MBsCVn/dPlIh+FH/nn7jMNU3dYcOlWgbTgcvqZnrJTw=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_20.png
+SHA-256-Digest: QGMYTmWIMxE9oxadSGv12RTCLK8OQtk3CB6m1xJ2tTU=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_21.png
+SHA-256-Digest: bsA+pJtQZUQgl9uORGdax7tkBKDsWdcAVomOR3iM0Qo=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_22.png
+SHA-256-Digest: jfeJOAWnncRX5ptGzOa+v93ZGKrhxHjKuKGE0pxCZss=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_23.png
+SHA-256-Digest: kEj76B9Q0/vhh/5QZ0JRXRUjLs+d91oZ9IfXEHKfQ0Q=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_24.png
+SHA-256-Digest: 87yVVePnoN9ymspkKP4froU9t1ACDPXhPQv8rVZvS3k=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_25.png
+SHA-256-Digest: nIkC7lji+GCaq6bA2Xi4F2O8tQdm0sJ9mI2jMzQDaKI=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_26.png
+SHA-256-Digest: D6n2z7WKLMifJdtrDT4hl43NVX+glWTBBkdb/PcSnwE=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_27.png
+SHA-256-Digest: cSGEvDlgigrssGqPw3/oGFUH3fQ4f5aHXRTQlh7QtkM=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_28.png
+SHA-256-Digest: ya6bYEUwDflaqIPPDp6oNyfeGn5yVxs9qOQu6ApNjgw=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_29.png
+SHA-256-Digest: pdgFatynppqyaOaiHc2EC0TJp4MWJtuKfqwVUgNHvYg=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_3.png
+SHA-256-Digest: PiAcW1VMys3nJDEDG5mAEUNBtYkNvJfjXVUuvEw2yuk=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_30.png
+SHA-256-Digest: p15YH6WaaYY8VG+d1JXtTli2beXhC5c+OXaXx7uwWLk=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_31.png
+SHA-256-Digest: oJZJvyiRCdyTFhpyad0jYgpFOB7K0xzLjuBJf5FcUVE=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_32.png
+SHA-256-Digest: q1Un2KZRGvxRJyWJJ8uC80BBYoNLKGteEyQNdhlpQWA=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_33.png
+SHA-256-Digest: yTtiZa64TYnCWBkc2q2aIgYuMHw4a4G5TLEXAs8BBms=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_34.png
+SHA-256-Digest: BPGmEe/I7WoRID/+AAxztpPkKdWkCo79H4na46hH4cE=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_35.png
+SHA-256-Digest: pgQQpXKnm7T2oTSe/q75rbQs/hZVejGs7dWRCn4Qy2k=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_36.png
+SHA-256-Digest: GV7Nl3w9UZv1hQ7OQmxbLf5tdAjCCjhZX7HO6DlqXWA=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_37.png
+SHA-256-Digest: Uh/c0usS9bIA6A+AtK612bJI7WWAU0Zr5M+5basESY0=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_38.png
+SHA-256-Digest: u3TawUkVevXFCr+gDau7OycK/J1eHCPqhus8BKtoaoA=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_39.png
+SHA-256-Digest: wAwT+vMV4l0JEiz0Qpe37XgiBzzkV1y846pwDmC/YbI=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_4.png
+SHA-256-Digest: B776877OzjXHA7h+a3+r9MSQ9g4yCZHTlRtBJj2bDMA=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_40.png
+SHA-256-Digest: SQ2cQyYPyr0hN0+Je9PUz+Sc96kUNzmGvcgoyn6WL9o=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_41.png
+SHA-256-Digest: cagJEYRcijv7xGi0EY5KDvGktv4SotNuegPZe9qagBo=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_42.png
+SHA-256-Digest: PsiYUAAYRvHNch1+JJ5yK6IpWWSqmYHFTA6GPvh3Jh4=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_43.png
+SHA-256-Digest: ZdNrgc+i6k0JgkdpPYVUQS+SLd0W/skHwA/zcAVptJE=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_44.png
+SHA-256-Digest: QTtuJwHq6t7f1AlF2PmCSZp5S22FKVB5++utYlPjjzA=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_45.png
+SHA-256-Digest: +J4uScL3WtBjFZpdxMkjRnv2r3xTDVxJbuAzzti6wtk=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_46.png
+SHA-256-Digest: vDMQEMA4BzJoPfIJ6HHNW/msRiab9EwxC/+bSb30AYA=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_47.png
+SHA-256-Digest: FtdI5jpebyiQRwqgtcZM74/Fv7P5/J8ckFCP6dHaUaM=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_48.png
+SHA-256-Digest: femm1zvlRICSKmtjeta5CUZ3e4eKtC2sp4gqfqSEqfY=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_49.png
+SHA-256-Digest: 8vUVTl1KWHy513VlosOc0dCQQPo0SLdmywQIaq3VBWk=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_5.png
+SHA-256-Digest: P3WHUXwNJ2jJXXHRwXCzwJ7sTN5BhWQ9jMjA+i2KD9U=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_50.png
+SHA-256-Digest: MtyQhVLvWm85SfjA45kYmt+xUGHEZW0nGrG7u4Yd374=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_51.png
+SHA-256-Digest: EdlqiPtNMDzvXRenRpu++epCMUotyeZsn/wZphXfZLQ=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_52.png
+SHA-256-Digest: eosLhW/XX8kL3rBPqIOhOosdMvb4olsS0mflbifgMRk=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_53.png
+SHA-256-Digest: m78ECc4rexvP1rj0sSYNNIsUN/dj8g3FGQ6vhP7ofDc=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_54.png
+SHA-256-Digest: Urkc2f8oLEupGfhNpAegDgHMMH0ME4qQRj9FPeDEpB0=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_55.png
+SHA-256-Digest: hh28QgCDdjc0JegVvhpvwuBWRAXabEvf6e/+6FOAIvc=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_56.png
+SHA-256-Digest: 4zxh9jW+9Ttun46wITRNZI9x3Ffkwjrjdzm6KhRaNVI=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_57.png
+SHA-256-Digest: WfvRqZQR+evnQT6o2gMV2hTnG35qi6v2VQe+Bph+kU8=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_58.png
+SHA-256-Digest: j8nYjUagf9lGpFfyFA0VRfCPiI8gLOn3Yn6cQ/+7Aes=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_59.png
+SHA-256-Digest: FzNfAf0FosqEsGwjSwJCcMM2Y2uOg/pKh9F6ae+iKj4=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_6.png
+SHA-256-Digest: Y+KqgvUrOsHoT+vMcyjvxuBye7l9vsPclMrSjqq5B50=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_60.png
+SHA-256-Digest: vrvAWS4yhc/oE04aNN1xhWTYQ5kOjZz1Cotq4OrDhRk=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_61.png
+SHA-256-Digest: vmhgfe8+wiOcO6uKrReY6RGqpIpSgbYmP2oGot4Og6Y=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_7.png
+SHA-256-Digest: ddImMNE2+U0t82PNitehGnioJRPBldrZ9za7BXKCbwA=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_8.png
+SHA-256-Digest: X+hh+TiQEdYAfmUYZA3TbqvFp5RJHuB7iNiiM4v9byE=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_pic_9.png
+SHA-256-Digest: KAWei09ehgWdEd0QtD7faiN4WbTrYjtibBJDDovaa6g=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_shift_prompt_notify_ico
+ n.png
+SHA-256-Digest: 39O7pGuRbAwaWGi5wMI9mmchRXkCcHwWV85qdsRng74=
+
+Name: res/drawable-xxhdpi-v4/wireless_charging_shift_prompt_pic.png
+SHA-256-Digest: afh5L3lGGTze1wf4M4QzCRbUYK9dGUzxTf7LBbG4Xqk=
+
+Name: resources.arsc
+SHA-256-Digest: V9DIheRy5bW1S1ivV5IGmWHOvy/zCfxo+WUmDP+mcaw=
+

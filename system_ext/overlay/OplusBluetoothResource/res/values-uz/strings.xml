@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">Fayl qabul qilinadi. Jarayonni \"Xabarnomalar\" panelida kuzating.</string>
+    <string name="bt_toast_2">Faylni qabul qilib bo‘lmaydi.</string>
+    <string name="download_cancel">To‘xtatish</string>
+    <string name="download_fail_ok">OK</string>
+    <string name="download_line1">Yuboruvchi: \"%1$s\"</string>
+    <string name="download_line3">Fayl hajmi: %1$s</string>
+    <string name="download_line5">Fayl qabul qilinmoqda…</string>
+    <string name="download_ok">Berkitish</string>
+    <string name="download_succ_line5">Fayl qabul qilindi</string>
+    <string name="enabling_progress_content">Bluetooth yoqilmoqda…</string>
+    <string name="inbound_noti_title">Bluetooth orqali olindi</string>
+    <string name="incoming_file_confirm_Notification_title">Kiruvchi fayl</string>
+    <string name="incoming_file_confirm_cancel">Rad etish</string>
+    <string name="notification_received">Bluetooth orqali olindi: %1$s</string>
+    <string name="notification_received_fail">Fayl qabul qilinmadi: %1$s</string>
+    <string name="notification_receiving">Bluetooth orqali yuborildi: %1$s</string>
+    <string name="notification_sending">Bluetooth orqali yuborish: %1$s</string>
+    <string name="notification_sent">Bluetooth orqali yuborildi: %1$s</string>
+    <string name="notification_sent_fail">Fayl yuborilmadi: %1$s</string>
+    <string name="outbound_noti_title">Bluetooth orqali yuborildi</string>
+    <string name="status_canceled">O‘tkazma bekor qilindi.</string>
+    <string name="status_file_error">Saqlash muammolari.</string>
+    <string name="status_forbidden">Qabul qiluvchi qurilmada fayl o‘tkazish taqiqlangan.</string>
+    <string name="status_not_accept">Kontent qo‘llab-quvvatlanmaydi.</string>
+    <string name="status_pending">Fayl o‘tkazmasi hali boshlanmadi.</string>
+    <string name="status_protocol_error">So‘rovni to‘g‘ri bajarib bo‘lmaydi.</string>
+    <string name="status_running">Fayl o‘tkazmasi davom etmoqda.</string>
+    <string name="status_success">Fayl o‘tkazmasi muvaffaqiyatli tugadi.</string>
+    <string name="status_unknown_error">Noma’lum xato.</string>
+    <string name="upload_fail_line1">Fayl “%1$s” qurilmasiga yuborilmadi.</string>
+    <string name="upload_line1">Qabul qiluvchi: \"%1$s\"</string>
+    <string name="upload_line5">Fayl jo‘natilmoqda…</string>
+    <string name="upload_succ_line5">Fayl jo‘natildi</string>
+</resources>

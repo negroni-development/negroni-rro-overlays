@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <!-- Start: IMS settings -->
+    <boolean name="carrier_volte_available_bool" value="true" />
+    <!-- Start: 19867 temporary modified for developing by rad.yeh @ 20191025 -->
+    <!-- <boolean name="carrier_volte_provisioned_bool" value="false" /> -->
+    <!-- <boolean name="carrier_volte_provisioning_required_bool" value="false" /> -->
+    <!-- End: 19867 temporary modified for developing  by rad.yeh @ 20191025 -->
+    <boolean name="vendor_hide_volte_settng_ui" value="true" />
+    <boolean name="carrier_wfc_ims_available_bool" value="false" />
+    <boolean name="carrier_vt_available_bool" value="false" />
+    <!-- <boolean name="support_downgrade_vt_to_audio_bool" value="true" /> -->
+    <boolean name="support_video_conference_call_bool" value="false"/>
+    <!-- Start: open notify vt handover to wifi failure from VZ_REQ_WIFI_1407094 by bruce.chenyc -->
+    <!-- <boolean name="notify_vt_handover_to_wifi_failure_bool" value="true" /> -->
+    <!-- End: open notify vt handover to wifi failure from VZ_REQ_WIFI_1407094 by bruce.chenyc -->
+    <boolean name="carrier_use_ims_first_for_emergency_bool" value="true" />
+    <boolean name="support_emergency_sms_over_ims_bool" value="true" />
+    <!-- End: IMS settings -->
+    <!-- Start: Rtt settings -->
+    <!-- <int name="default_rtt_mode_int" value="1"/> -->
+    <!-- <boolean name="rtt_supported_bool" value="true" /> -->
+    <!-- <boolean name="show_rtt_visibility_setting_bool" value="true" /> -->
+    <!-- <boolean name="rtt_always_enabled_bool" value="true"/> -->
+    <!-- <boolean name="ignore_rtt_mode_setting_bool" value="true"/> -->
+    <!-- <boolean name="rtt_auto_upgrade_bool" value="true" /> -->
+    <!-- End: Rtt settings -->
+    <!-- Start: UI settings  color no vendor_hide_call_forward_ui-->
+    <boolean name="call_barring_visibility_bool" value="false" />
+    <boolean name="vendor_hide_call_forward_ui" value="true" />
+    <!-- <boolean name="vendor_hide_additional_settings_ui" value="true" /> -->
+    <!-- End: UI settings -->
+    <!-- Start: Apn settings -->
+    <string-array name="read_only_apn_types_string_array" num="0" />
+    <boolean name="allow_adding_apns_bool" value="false" />
+    <!-- End: Apn settings -->
+    <!-- Start: Emergency call config -->
+    <boolean name="vendor_ecc_after_radio_on_under_flight_mode" value="true" />
+    <!-- End: Emergency call config -->
+    <!-- Start: To set device keep in GSM phone because we are CDMA less device by rad.yeh @20190523 -->
+    <int name="volte_replacement_rat_int" value="3" />
+    <!-- End: To set device keep in GSM phone because we are CDMA less device by rad.yeh @20190523 -->
+    <!-- Start: Add Enhance Operator Name String short (OperatorAlphaShort) -->
+    <string name="carrier_name_string">Verizon</string>
+    <!-- End: Add Enhance Operator Name String short (OperatorAlphaShort) -->
+    <!-- Start: Data romaing should be default true from VZ_REQ_DATAROAM_10552 by kimmy.yang -->
+    <boolean name="carrier_default_data_roaming_enabled_bool" value="true" />
+    <!-- End: Data romaing should be default true from VZ_REQ_DATAROAM_10552 by kimmy.yang-->
+    <int name="maxSubjectLength" value="80" />
+    <string name="gps.lpp_profile">3</string>
+    <!-- Start: Enabled ims hold call function by kimmy.yang -->
+    <boolean name="allow_hold_in_ims_call" value="true" />
+    <!-- End: Enabled ims hold call function by kimmy.yang-->
+    <!-- Start: Enabled mmi code while roaming by kimmy.yang -->
+    <boolean name="convert_cdma_caller_id_mmi_codes_while_roaming_on_3gpp_bool" value="true" />
+    <!-- End: Enabled mmi code while roaming by kimmy.yang-->
+    <!-- Start: Disabled NR in Open Device by Anita.lin -->
+    <!-- <boolean name="carrier_supports_5g_nr" value="true" /> -->
+    <!-- End: Disabled NR in Open Device by Anita.lin -->
+    <string-array name="carrier_metered_apn_types_strings" num="4">
+                <item value="default" />
+                <item value="dun" />
+                <item value="supl" />
+                <item value="hipri" />
+    </string-array>
+    <string-array name="carrier_metered_roaming_apn_types_strings" num="5">
+                <item value="default" />
+                <item value="dun" />
+                <item value="mms" />
+                <item value="supl" />
+                <item value="fota" />
+    </string-array>
+    <string  name="carrier_ims_user_agent">OnePlus---[P]---[V]</string>
+    <!-- #ifdef OPLUS_FEATURE_CALL_RECOVERY_DISABLED -->
+    <!-- Huangkaihui@NETWORK.CALL.2849109, 2022-01-17, add for ringback_timer issue -->
+    <int name="oplus_carrier_ringback_timer_for_recovery_int" value="202000" />
+    <!-- #endif /*OPLUS_FEATURE_CALL_RECOVERY_DISABLED*/-->
+</carrier_config>

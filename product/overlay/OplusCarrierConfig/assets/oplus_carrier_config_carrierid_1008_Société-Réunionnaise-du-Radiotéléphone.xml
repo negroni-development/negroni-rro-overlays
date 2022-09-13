@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <int name="smsToMmsTextThreshold" value="10"/>
+    <boolean name="mmsRoamingAutoRetrieveByDefault" value="true"/>
+    <boolean name="allowChangingMmsRoamingAutoRetrieve" value="true"/>
+    <!-- #ifdef OPLUS_BUG_COMPATIBILITY -->
+    <!--ChenGuoyao@NETWORK.IMS.3176493, 2022/02/22, add default voicemail number-->
+    <string name="default_vm_number_string">123</string>
+    <!--#endif OPLUS_BUG_COMPATIBILITY -->
+</carrier_config>

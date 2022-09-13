@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config_list>
+<!-- ranganatha.r@NETWORK.CALL.2390203, 2021/10/26, configured default VM number for Skinny -->
+    <carrier_config>
+        <string name="default_vm_number_string">+6483083210</string>
+    </carrier_config>
+
+    <carrier_config imsi="^53005204.*$">
+        <string name="default_vm_number_string">+64204864236</string>
+    </carrier_config>
+</carrier_config_list>

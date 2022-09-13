@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">Ifayela izotholwa. Hlola intuthuki kwiphaneli Yezaziso.</string>
+    <string name="bt_toast_2">Ifayela alikwazi ukutholakala.</string>
+    <string name="download_cancel">Misa</string>
+    <string name="download_fail_ok">KULUNGILE</string>
+    <string name="download_line1">Isuka ku: \"%1$s\"</string>
+    <string name="download_line3">Usayizi wefayela: %1$s</string>
+    <string name="download_line5">Yamukela ifayela...</string>
+    <string name="download_ok">Fihla</string>
+    <string name="download_succ_line5">Ifayela itholakele</string>
+    <string name="enabling_progress_content">Ivula i-Bluetooth...</string>
+    <string name="inbound_noti_title">Abelana ne-Bluetooth: Amafayela atholakele</string>
+    <string name="incoming_file_confirm_Notification_title">Ifayela elingenayo</string>
+    <string name="incoming_file_confirm_cancel">Nqaba</string>
+    <string name="notification_received">Abelana ne-Bluetooth: Itholakele %1$s</string>
+    <string name="notification_received_fail">Abelana ne-Bluetooth: Ifayela %1$s ayitholakalanga</string>
+    <string name="notification_receiving">Abelana ne-Bluetooth: Ithola%1$s</string>
+    <string name="notification_sending">Abelana ne-Bluetooth: Ithumela %1$s</string>
+    <string name="notification_sent">Abelana ne-Bluetooth: Thunyelwe %1$s</string>
+    <string name="notification_sent_fail">Abelana ne-Bluetooth: Ifayela %1$s ayithunyelwanga</string>
+    <string name="outbound_noti_title">Abelana ne-Bluetooth. Amafayela athunyelwe</string>
+    <string name="status_canceled">Ukudlulisa kukhanselwe umsebenzisi.</string>
+    <string name="status_file_error">Inkinga yokugcina</string>
+    <string name="status_forbidden">Lokhu kudlulisa kunqatshelwe idivayisi eqondiwe</string>
+    <string name="status_not_accept">Okuqukethwe akusekelwe.</string>
+    <string name="status_pending">Ukudlulisa ifayela akuqalisiwe okwamanje</string>
+    <string name="status_protocol_error">Isicelo asikwazi ukuphathwa ngokulungile</string>
+    <string name="status_running">Ukudlulisa ifayela kuyaqhubeka</string>
+    <string name="status_success">Ukudlulisa ifayela kuqede ngempumelelo</string>
+    <string name="status_unknown_error">Iphutha elingaziwa</string>
+    <string name="upload_fail_line1">Ifayela ayithunyelwanga ku- \"%1$s\"</string>
+    <string name="upload_line1">Kuya ku: \"%1$s\"</string>
+    <string name="upload_line5">Ithumela ifayela...</string>
+    <string name="upload_succ_line5">Ifayela ithunyelwe</string>
+</resources>

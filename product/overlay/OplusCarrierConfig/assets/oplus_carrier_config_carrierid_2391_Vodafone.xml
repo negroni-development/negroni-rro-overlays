@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+   <string name="wfc_spn_customize">Vodafone WiFi calling</string>
+   <boolean name="show_iccid_in_sim_status_bool" value="true"/>
+</carrier_config>

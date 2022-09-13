@@ -1,0 +1,14 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA-256-Digest-Manifest: QoxvRZMcJs6oR5bg0Pxv8i3NVEdWwUQpzIvzoizkr1Q=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: xVC6q/d6tfUBzH3gQO0PlWyPMHMUz3CV2unWwQoOk1E=
+
+Name: res/xml/telephony_injection.xml
+SHA-256-Digest: fu81uj5635+HUUFAHr2EogGid/e0C8aNs+KvJE3tSLM=
+
+Name: resources.arsc
+SHA-256-Digest: Q3QDr9UYenefRGAX0QOb9yJbKG4nc1muca4LP1xvMLI=
+

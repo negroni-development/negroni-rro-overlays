@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="user_icon_1" id="0x7f010000" />
+    <public type="string" name="config_systemGallery" id="0x7f020000" />
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">Файл будзе атрыманы. Сачыце за прагрэсам на панэлі апавяшчэнняў.</string>
+    <string name="bt_toast_2">Немагчыма атрымаць файл.</string>
+    <string name="download_cancel">Спыніць</string>
+    <string name="download_fail_ok">ОК</string>
+    <string name="download_line1">Ад: \"%1$s\"</string>
+    <string name="download_line3">Памер файла: %1$s</string>
+    <string name="download_line5">Атрыманне файла...</string>
+    <string name="download_ok">Схаваць</string>
+    <string name="download_succ_line5">Файл атрыманы</string>
+    <string name="enabling_progress_content">Уключэнне Bluetooth...</string>
+    <string name="inbound_noti_title">Перадача праз Bluetooth: атрыманыя файлы</string>
+    <string name="incoming_file_confirm_Notification_title">Уваходны файл</string>
+    <string name="incoming_file_confirm_cancel">Адхіліць</string>
+    <string name="notification_received">Перадача праз Bluetooth: атрыманы файл %1$s</string>
+    <string name="notification_received_fail">Перадача прз Bluetooth: файл %1$s не атрыманы</string>
+    <string name="notification_receiving">Перадача праз Bluetooth: атрыманне файла %1$s</string>
+    <string name="notification_sending">Перадача праз Bluetooth: адпраўка файла %1$s</string>
+    <string name="notification_sent">Перадача праз Bluetooth: адпраўлены файл %1$s</string>
+    <string name="notification_sent_fail">Перадача праз Bluetooth: файл %1$s не адпраўлены</string>
+    <string name="outbound_noti_title">Перадача праз Bluetooth: адпраўленыя файлы</string>
+    <string name="status_canceled">Перадача адменена карыстальнiкам.</string>
+    <string name="status_file_error">Праблема ўнутранага сховiшча</string>
+    <string name="status_forbidden">Перадача забаронена мэтавай прыладай.</string>
+    <string name="status_not_accept">Змесціва не падтрымліваецца.</string>
+    <string name="status_pending">Перадача файла яшчэ не пачалася</string>
+    <string name="status_protocol_error">Запыт не можа быць правільна апрацаваны</string>
+    <string name="status_running">Ідзе перадача файлаў.</string>
+    <string name="status_success">Перадача файлаў паспяхова завершана.</string>
+    <string name="status_unknown_error">Невядомая памылка.</string>
+    <string name="upload_fail_line1">Файл не адпраўлены атрымальніку \"%1$s\".</string>
+    <string name="upload_line1">Каму: \"%1$s\"</string>
+    <string name="upload_line5">Адпраўка файла...</string>
+    <string name="upload_succ_line5">Файл адпраўлены</string>
+</resources>

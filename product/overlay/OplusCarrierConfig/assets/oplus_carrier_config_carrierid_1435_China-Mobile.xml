@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string-array name="ims_reasoninfo_mapping_string_array" num="2">
+        <item value="1014|decline|510"/>
+        <item value="1014|call rejected by user|510"/>
+    </string-array>
+</carrier_config>

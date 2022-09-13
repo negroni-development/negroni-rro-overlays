@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <!--MengXiangPeng@NETWORK.2201114,2021/09/15,During call waiting DUT don't shows "My Number" grey for Zain  -->
+    <boolean name="config_disable_clir_over_ut" value="true" />
+    <string-array name="ims_reasoninfo_mapping_string_array" num="2">
+        <item value="1014|decline|510"/>
+        <item value="1014|call rejected by user|510"/>
+    </string-array>
+</carrier_config>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="smsUsesSimpleCharactersOnly" value="true"/>
+    <boolean name="allowEnablingWapPushSI" value="false"/>
+    <boolean name="carrier_supports_ss_over_ut_bool" value="true"/>
+    <boolean name="config_oppo_ut_support_bool" value="true" />
+    <boolean name="enableWapPushSI" value="false"/>
+    <boolean name="enableMultipartSMS" value="true"/>
+    <boolean name="enabledMMS" value="false"/>
+    <string name="default_vm_number_string">+31640192939</string>
+    <boolean name="editable_voicemail_number_bool" value="false"/>
+    <int name="wfc_spn_format_idx_int" value="4" />
+    <boolean name="show_iccid_in_sim_status_bool" value="true"/>
+    <boolean name="editable_wfc_roaming_mode_bool" value="true"/>
+    <boolean name="config_oplus_hide_cancel_all_callbarring" value="true" />
+    <boolean name="config_oplus_sms_ims_support_bool" value="true" />
+</carrier_config>

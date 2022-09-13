@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string name="default_vm_number_string">+351962000000</string>
+    <int name="smsToMmsTextThreshold" value="10"/>
+    <int name="maxMessageSize" value="307200"/>
+    <boolean name="allowEnablingWapPushSI" value="true"/>
+    <boolean name="enableWapPushSI" value="true"/>
+    <boolean name="mmsRoamingAutoRetrieveByDefault" value="true"/>
+    <boolean name="allowChangingMmsRoamingAutoRetrieve" value="true"/>
+</carrier_config>

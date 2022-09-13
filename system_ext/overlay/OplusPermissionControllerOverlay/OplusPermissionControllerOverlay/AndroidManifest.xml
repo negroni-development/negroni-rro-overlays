@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="31" android:compileSdkVersionCodename="12" coreApp="true" package="com.google.android.permissioncontroller.overlay.oplus" platformBuildVersionCode="31" platformBuildVersionName="12">
+    <overlay android:isStatic="true" android:priority="10" android:targetName="PermissionControllerStyles" android:targetPackage="com.google.android.permissioncontroller"/>
+    <application android:allowBackup="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:extractNativeLibs="false">
+        <meta-data android:name="br" android:value="1"/>
+        <meta-data android:name="area" android:value="export,gdpr"/>
+    </application>
+</manifest>

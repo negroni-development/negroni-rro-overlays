@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">فائل موصول ہوگی۔ اطلاعاتی پینل میں پیشرفت چیک کریں۔</string>
+    <string name="bt_toast_2">فائل موصول نہیں ہو سکتی۔</string>
+    <string name="download_cancel">روکیں</string>
+    <string name="download_fail_ok">ٹھیک ہے</string>
+    <string name="download_line1">منجانب: \"%1$s\"</string>
+    <string name="download_line3">فائل کا سائز: %1$s</string>
+    <string name="download_line5">فائل موصول ہو رہی ہے…</string>
+    <string name="download_ok">چھپائیں</string>
+    <string name="download_succ_line5">فائل موصول ہو گئی</string>
+    <string name="enabling_progress_content">بلوٹوتھ آن ہو رہا ہے…</string>
+    <string name="inbound_noti_title">بلوٹوتھ اشتراک: فائلیں موصول ہو گئیں</string>
+    <string name="incoming_file_confirm_Notification_title">آنے والی فائل</string>
+    <string name="incoming_file_confirm_cancel">مسترد کریں</string>
+    <string name="notification_received">بلوٹوتھ اشتراک: %1$s موصول ہوئی</string>
+    <string name="notification_received_fail">بلوٹوتھ اشتراک: فائل %1$s موصول نہیں ہوئی</string>
+    <string name="notification_receiving">بلوٹوتھ اشتراک: %1$s موصول ہو رہی ہے</string>
+    <string name="notification_sending">بلوٹوتھ اشتراک: %1$s بھیجی جا رہی ہے</string>
+    <string name="notification_sent">بلوٹوتھ اشتراک: %1$s بھیج دی گئی</string>
+    <string name="notification_sent_fail">بلوٹوتھ اشتراک: %1$s نہیں بھیجی گئی</string>
+    <string name="outbound_noti_title">بلوٹوتھ اشتراک: ارسال کردہ فائلیں</string>
+    <string name="status_canceled">صارف نے منتقلی منسوخ کر دی۔</string>
+    <string name="status_file_error">اسٹوریج کا مسئلہ۔</string>
+    <string name="status_forbidden">ٹارگٹ آلہ کے ذریعہ منتقلی ممنوع ہے۔</string>
+    <string name="status_not_accept">مواد تعاون یافتہ نہیں ہے۔</string>
+    <string name="status_pending">فائل کی منتقلی ابھی شروع نہیں ہوئی۔</string>
+    <string name="status_protocol_error">درخواست کو ٹھیک سے ہینڈل نہیں کیا جا سکتا۔</string>
+    <string name="status_running">فائل کی منتقلی جاری ہے۔</string>
+    <string name="status_success">فائل کی منتقلی کامیابی سے مکمل ہو گئی۔</string>
+    <string name="status_unknown_error">نامعلوم خرابی۔</string>
+    <string name="upload_fail_line1">فائل \"%1$s\" کو نہیں بھیجی گئی۔</string>
+    <string name="upload_line1">بنام: \"%1$s\"</string>
+    <string name="upload_line5">فائل بھیجی جا رہی ہے…</string>
+    <string name="upload_succ_line5">فائل بھیج دی گئی</string>
+</resources>

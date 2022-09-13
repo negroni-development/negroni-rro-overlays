@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="enabledMMS" value="false"/>
+    <!-- Lixinran@NETWORK.IMS.636369, 2021/01/25, add voicemail number for Swisscom 29501 -->
+    <string name="default_vm_number_string">+41794997979</string>
+</carrier_config>

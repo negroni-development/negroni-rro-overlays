@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="oplus_rc_bottom_left" id="0x7f010000" />
+    <public type="drawable" name="oplus_rc_bottom_right" id="0x7f010001" />
+    <public type="drawable" name="oplus_rc_top_left" id="0x7f010002" />
+    <public type="drawable" name="oplus_rc_top_right" id="0x7f010003" />
+</resources>

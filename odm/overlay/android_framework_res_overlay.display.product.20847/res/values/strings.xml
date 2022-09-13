@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_auxDisplayLightSensorType">qti.sensor.light_rear</string>
+    <string name="config_mainBuiltInDisplayCutout">M -720,0 L -720,128 L -500,128 L -500,0 Z</string>
+    <string name="config_mainBuiltInDisplayCutoutRectAppSwitchResolution">M -540,0 L -540,96 L -375,96 L -375,0 Z</string>
+    <string name="config_mainDisplayLightSensorType">android.sensor.light</string>
+</resources>

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: vEMKL2n2gdkqudOyivX0/3u4YglSiIjj9kfZ+Sv+SgE=
+
+Name: res/xml/vendor_oplus.xml
+SHA-256-Digest: GbgYiYOKa+mY+c2xF5loxRT70hyaNROeRiOY4FYDmuE=
+
+Name: resources.arsc
+SHA-256-Digest: fWvH7gP3z4td1jDhwQpZbvGpwndjgAvWfwQSXZgSM58=
+

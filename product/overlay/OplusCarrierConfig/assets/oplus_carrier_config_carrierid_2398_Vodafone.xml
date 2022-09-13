@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="enableMMSDeliveryReports" value="true"/>
+    <boolean name="enableMMSReadReports" value="true"/>
+    <int name="smsToMmsTextThreshold" value="6"/>
+    <string name="default_vm_number_string">+420608989898</string>
+    <string name="wfc_spn_customize">Vodafone WiFi volání</string>
+    <boolean name="mmsRoamingAutoRetrieveByDefault" value="true"/>
+    <boolean name="groupChatDefaultsToMMS" value="false"/>
+    <string  name="carrier_ims_user_agent">OPPO_[M]_[S]</string>
+    <boolean name="show_iccid_in_sim_status_bool" value="true"/>
+</carrier_config>

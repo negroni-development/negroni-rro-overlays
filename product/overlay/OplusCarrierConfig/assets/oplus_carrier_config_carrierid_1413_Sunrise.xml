@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <!-- #ifndef OPLUS_BUG_DEBUG -->
+    <!-- harshit.saini@IN.NW.CALL.2250063, 2021/09/30, Group SMS Not To Be Sent as MMS -->
+    <boolean name="groupChatDefaultsToMMS" value="false"/>
+    <!-- #endif OPLUS_BUG_DEBUG -->
+    <!-- #ifndef OPLUS_BUG_DEBUG -->
+    <!-- mukunda.erla@IN.NW.DATA.2716686, 2021/12/07, MMS should not send with data off -->
+    <string-array name="carrier_metered_apn_types_strings" num="4">
+        <item value="default" />
+        <item value="mms" />
+        <item value="dun" />
+        <item value="supl" />
+    </string-array>
+    <!-- #endif OPLUS_BUG_DEBUG -->
+</carrier_config>

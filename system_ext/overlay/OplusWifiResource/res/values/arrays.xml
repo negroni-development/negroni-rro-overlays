@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_wifiBackgroundScanThrottleExceptionList">
+        <item>com.baidu.BaiduMap</item>
+        <item>com.autonavi.minimap</item>
+        <item>com.sogou.map.android.maps</item>
+        <item>com.tencent.map</item>
+        <item>com.google.android.apps.maps</item>
+        <item>com.google.android.gms</item>
+        <item>com.baidu.map.location</item>
+        <item>com.tencent.android.location</item>
+        <item>com.amap.android.location</item>
+        <item>com.amap.android.ams</item>
+        <item>com.oplus.location</item>
+        <item>com.coloros.sceneservice</item>
+        <item>com.coloros.backuprestore</item>
+        <item>com.oneplus.backuprestore</item>
+        <item>me.ele.crowdsource</item>
+        <item>me.ele.hbdteam</item>
+    </string-array>
+    <integer-array name="config_wifiDisconnectedScanIntervalScheduleSec">
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+    </integer-array>
+    <string-array name="config_wifiForegroundScanThrottleExceptionList">
+        <item>com.baidu.BaiduMap</item>
+        <item>com.autonavi.minimap</item>
+        <item>com.sogou.map.android.maps</item>
+        <item>com.tencent.map</item>
+        <item>com.google.android.apps.maps</item>
+        <item>com.google.android.gms</item>
+        <item>com.baidu.map.location</item>
+        <item>com.tencent.android.location</item>
+        <item>com.amap.android.location</item>
+        <item>com.amap.android.ams</item>
+        <item>com.oplus.location</item>
+        <item>com.coloros.sceneservice</item>
+        <item>com.coloros.backuprestore</item>
+        <item>com.oneplus.backuprestore</item>
+        <item>baidu.map</item>
+        <item>baidu.location</item>
+        <item>com.amap</item>
+        <item>android.gms</item>
+        <item>android.location</item>
+        <item>com.didi.es.psngr</item>
+        <item>com.sdu.didi.psnger</item>
+        <item>com.sdu.didi.gsui</item>
+        <item>com.jingyao.easybike</item>
+        <item>com.didapinche.booking</item>
+        <item>com.mobike.mobikeapp</item>
+        <item>so.ofo.labofo</item>
+        <item>com.lalamove.huolala.client</item>
+        <item>me.ele</item>
+        <item>com.sankuai.meituan.takeoutnew</item>
+        <item>com.sankuai.meituan.dispatch.crowdsource</item>
+        <item>com.meituan.banma.errand</item>
+        <item>com.sankuai.meituan.dispatch.homebrew</item>
+        <item>com.dianping.v1</item>
+        <item>com.taobao.mobile.dipei</item>
+        <item>com.sankuai.meituan</item>
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.sina.weibo</item>
+        <item>com.android.server.cts.device.statsdatom</item>
+        <item>com.huawei.smarthome</item>
+    </string-array>
+    <integer-array name="config_wifiRssiLevelThresholds">
+        <item>-93</item>
+        <item>-82</item>
+        <item>-74</item>
+        <item>-64</item>
+    </integer-array>
+</resources>

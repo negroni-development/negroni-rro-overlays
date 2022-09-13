@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_receiving_title">Réception...</string>
+    <string name="download_title_fail">Échec du transfert du fichier</string>
+    <string name="download_title_success">Transfert du fichier réussi</string>
+    <string name="oplus_bluetooth_exceed_file_max_number">Envoi impossible. Le nombre total de fichiers à envoyer dépasse 300.</string>
+    <string name="oplus_bluetooth_sdcard_app_name">Fichiers reçus par Bluetooth</string>
+    <string name="oplus_bluetooth_sdcard_beam_space_not_enough_content">"Android Beam utilise la fonction Bluetooth pour le transfert de fichiers. Vous pouvez arrêter l'enregistrement de fichiers reçus par Bluetooth vers la carte SD."</string>
+    <string name="oplus_bluetooth_sdcard_beam_space_not_enough_title">Espace mémoire insuffisant sur la carte SD pour les fichiers reçus</string>
+    <string name="oplus_bluetooth_sdcard_format_4GB_limit">Le système de formatage de la carte SD ne prend en charge que les fichiers de moins de 4 Go.</string>
+    <string name="oplus_bluetooth_sdcard_know">Annuler</string>
+    <string name="oplus_bluetooth_sdcard_space_not_enough">"Stockage insuffisant de la carte SD. Changer d'emplacement de stockage dans Gestionnaire de carte SD."</string>
+    <string name="oplus_bluetooth_sdcard_to_set">Paramètres</string>
+    <string name="oplus_bluetooth_sdcard_unmount">La carte SD a été retirée.</string>
+    <string name="oplus_bt_enable_ok">Activer</string>
+    <string name="oplus_bt_sm_2_1_sdcard">Espace de stockage insuffisant de la carte SD pour sauvegarder les fichiers de « %1$s ».</string>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="incoming_file_confirm_Notification_title">Fichier entrant</string>
+</resources>

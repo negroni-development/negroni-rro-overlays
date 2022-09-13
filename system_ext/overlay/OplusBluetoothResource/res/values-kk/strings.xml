@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">Файл қабылданады. Орындалуын Хабарлар тақтасы арқылы бақылаңыз.</string>
+    <string name="bt_toast_2">Файлды қабылдау мүмкін емес.</string>
+    <string name="download_cancel">Тоқтату</string>
+    <string name="download_fail_ok">Жарайды</string>
+    <string name="download_line1">Кімнен: \"%1$s\"</string>
+    <string name="download_line3">Файл өлшемі: %1$s</string>
+    <string name="download_line5">Файлды қабылдауда…</string>
+    <string name="download_ok">Жасыру</string>
+    <string name="download_succ_line5">Файл қабылданды</string>
+    <string name="enabling_progress_content">Bluetooth қосылуда…</string>
+    <string name="inbound_noti_title">Bluetooth бөлісу: Қабылданған файлдар</string>
+    <string name="incoming_file_confirm_Notification_title">Кіріс файл</string>
+    <string name="incoming_file_confirm_cancel">Бас тарту</string>
+    <string name="notification_received">Bluetooth бөлісу: %1$s файлы қабылданды</string>
+    <string name="notification_received_fail">Bluetooth бөлісу: %1$s файлы қабылданбады</string>
+    <string name="notification_receiving">Bluetooth бөлісу: %1$s файлын қабылдауда</string>
+    <string name="notification_sending">Bluetooth бөлісу: %1$s файлын жіберуде</string>
+    <string name="notification_sent">Bluetooth бөлісу: %1$s файлы жіберілді</string>
+    <string name="notification_sent_fail">Bluetooth бөлісу: %1$s файлы жіберілмеді.</string>
+    <string name="outbound_noti_title">Bluetooth бөлісу: Жіберілген файлдар</string>
+    <string name="status_canceled">Тасымалды пайдаланушы тоқтатты.</string>
+    <string name="status_file_error">Жад ақаулығы.</string>
+    <string name="status_forbidden">Аударуға қабылдайтын құрылғы тыйым салды.</string>
+    <string name="status_not_accept">Мазмұн қолдауы жоқ.</string>
+    <string name="status_pending">Файлды аудару әлі басталған жоқ.</string>
+    <string name="status_protocol_error">Өтінішті дұрыс орындау мүмкін емес.</string>
+    <string name="status_running">Файлды аудару орындалуда.</string>
+    <string name="status_success">Файлды аудару сәтті орындалды.</string>
+    <string name="status_unknown_error">Белгісіз қателік.</string>
+    <string name="upload_fail_line1">Файл \"%1$s\" құрылғысына жіберілмеді.</string>
+    <string name="upload_line1">Кімге: \"%1$s\"</string>
+    <string name="upload_line5">Файлды жіберуде…</string>
+    <string name="upload_succ_line5">Файл жіберілді</string>
+</resources>

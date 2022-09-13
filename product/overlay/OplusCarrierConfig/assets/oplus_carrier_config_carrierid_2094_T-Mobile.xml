@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="editable_wfc_roaming_mode_bool" value="true"/>
+    <!-- #ifdef OPLUS_BUG_COMPATIBILITY-->
+    <!-- lulin@NETWORK.CALL.1981786, 2022/04/28, Changed wfc_spn for DTAG operator on WFC -->
+    <string name="wfc_spn_customize">WLAN-Call</string>
+    <!-- #endif OPLUS_BUG_COMPATIBILITY-->
+</carrier_config>

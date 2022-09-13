@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bt_connect_fail_button">Anleitungen zum Anschluss</string>
+    <string name="bt_connect_failed_tips">Verbindung zum \"%s\" Gerät fehlgeschlagen. Suchen Sie nach dem Problem und versuchen Sie es erneut.</string>
+    <string name="download_receiving_title">Empfangen...</string>
+    <string name="download_title_fail">Dateiübertragung fehlgeschlagen</string>
+    <string name="download_title_success">Dateiübertragung Erfolgreich</string>
+    <string name="oplus_bluetooth_can_not_send">Dateiübertragung fehlgeschlagen</string>
+    <string name="oplus_bluetooth_dialog_button_hide">Ausblenden</string>
+    <string name="oplus_bluetooth_dialog_button_known">Verstanden</string>
+    <string name="oplus_bluetooth_dialog_button_refuse">Ablehnen</string>
+    <string name="oplus_bluetooth_dialog_button_suspend">Stoppen</string>
+    <string name="oplus_bluetooth_exceed_file_max_number">Nicht möglich zu senden. Die Gesamtzahl der zu sendenden Dateien überschreitet 300.</string>
+    <string name="oplus_bluetooth_opp_exceed_4GB">Diese Datei überschreitet die Dateigrössengrenze von 4 GB für Bluetooth-Übertragungen.</string>
+    <string name="oplus_bluetooth_opp_file_size_title">Dateigrösse</string>
+    <string name="oplus_bluetooth_sdcard_app_name">Von Bluetooth empfangene Dateien</string>
+    <string name="oplus_bluetooth_sdcard_beam_space_not_enough_content">Android Beam nutzt Bluetooth für die Dateiübertragung. Sie können das Speichern von über Bluetooth empfangenen Dateien auf der SD Karte beenden.</string>
+    <string name="oplus_bluetooth_sdcard_beam_space_not_enough_title">Unzureichender SD Kartenspeicher zum Empfangen von Dateien</string>
+    <string name="oplus_bluetooth_sdcard_format_4GB_limit">Das Formatsystem der SD-Karte unterstützt nur Dateien, welche kleiner sind als 4GB.</string>
+    <string name="oplus_bluetooth_sdcard_know">Abbrechen</string>
+    <string name="oplus_bluetooth_sdcard_space_not_enough">Ungenügen SD-Karten Speicher. Wechseln zu einem anderen Speicherort im SD Card Manager.</string>
+    <string name="oplus_bluetooth_sdcard_to_set">Einstellungen</string>
+    <string name="oplus_bluetooth_sdcard_unmount">Die SD-Karte wurde entfernt.</string>
+    <string name="oplus_bt_enable_ok">Aktivieren</string>
+    <string name="oplus_bt_sm_2_1_sdcard">Nicht genügend SD-Kartenspeicher zum Speichern von Dateien unter \"%1$s\".</string>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="incoming_file_confirm_Notification_title">Eingehende Datei</string>
+</resources>

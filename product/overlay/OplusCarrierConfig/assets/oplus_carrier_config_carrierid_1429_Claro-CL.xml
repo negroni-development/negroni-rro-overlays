@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string name="default_vm_number_string">*20</string>
+    <boolean name="voicemail_notification_persistent_bool" value="true"/>
+    <!--MengXiangPeng@NETWORK.DATA.2130941 ADD for roaming request -->
+    <string-array name="non_roaming_operator_string_array" num="4">
+        <item value="73009"/>
+        <item value="73002"/>
+        <item value="73001"/>
+        <item value="73007"/>
+    </string-array>
+</carrier_config>

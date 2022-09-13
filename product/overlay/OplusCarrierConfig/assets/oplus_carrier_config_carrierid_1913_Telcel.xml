@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string name="config_ims_package_override_string">com.google.android.ims</string>
+    <!--LuLin@PSW.NETWOEK.1466160 2021/05/17，config for Mexico Telcel, [OCR.1132103.1.Telcel.MX]-->
+    <string name="default_vm_number_string">*86</string>
+    <boolean name="voicemail_notification_persistent_bool" value="true"/>
+    <!--#ifdef OPLUS_BUG_COMPATIBILITY-->
+    <!-- sunhuan@NETWOEK.IMS.3213518, 2021/12/29, add for LTE prefer when roaming -->
+    <int name="carrier_default_wfc_ims_roaming_mode_int" value="1" />
+    <!--#endif OPLUS_BUG_COMPATIBILITY-->
+</carrier_config>

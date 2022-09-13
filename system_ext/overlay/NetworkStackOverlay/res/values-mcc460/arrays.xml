@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_captive_portal_http_urls">
+        <item>http://conn-service-cn-04.allawntech.com/generate204</item>
+        <item>http://www.google.cn/generate_204</item>
+    </string-array>
+    <string-array name="config_captive_portal_https_urls">
+        <item>https://conn-service-cn-05.allawntech.com/generate204</item>
+        <item>https://www.google.cn/generate_204</item>
+    </string-array>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">கோப்பு பெறப்படும். அறிவிப்புகள் பலகத்தில் செயல்நிலையைப் பார்க்கவும்.</string>
+    <string name="bt_toast_2">கோப்பு பெறப்படவில்லை.</string>
+    <string name="download_cancel">நிறுத்து</string>
+    <string name="download_fail_ok">சரி</string>
+    <string name="download_line1">அனுப்புநர்: \"%1$s\"</string>
+    <string name="download_line3">கோப்பின் அளவு: %1$s</string>
+    <string name="download_line5">கோப்பைப் பெறுகிறது…</string>
+    <string name="download_ok">மறை</string>
+    <string name="download_succ_line5">கோப்பு பெறப்பட்டது</string>
+    <string name="enabling_progress_content">புளூடூத்தை இயக்குகிறது…</string>
+    <string name="inbound_noti_title">புளூடூத் பகிர்வு: பெற்ற கோப்புகள்</string>
+    <string name="incoming_file_confirm_Notification_title">உள்வரும் கோப்பு</string>
+    <string name="incoming_file_confirm_cancel">நிராகரி</string>
+    <string name="notification_received">புளூடூத் பகிர்வு: %1$s பெறப்பட்டது</string>
+    <string name="notification_received_fail">புளூடூத் பகிர்வு: %1$s ஐப் பெறவில்லை</string>
+    <string name="notification_receiving">புளூடூத் பகிர்வு: %1$s ஐப் பெறுகிறது</string>
+    <string name="notification_sending">புளூடூத் பகிர்வு: %1$s ஐ அனுப்புகிறது</string>
+    <string name="notification_sent">புளூடூத் பகிர்வு: %1$s அனுப்பப்பட்டது</string>
+    <string name="notification_sent_fail">புளூடூத் பகிர்வு: %1$s கோப்பு அனுப்பப்படவில்லை</string>
+    <string name="outbound_noti_title">புளூடூத் பகிர்வு: அனுப்பியவை</string>
+    <string name="status_canceled">பயனர் இடமாற்றத்தை ரத்துசெய்தார்.</string>
+    <string name="status_file_error">சேமிப்பிடத்தில் சிக்கல்.</string>
+    <string name="status_forbidden">இலக்குச் சாதனம் பரிமாற்றத்தைத் தடைசெய்தது.</string>
+    <string name="status_not_accept">உள்ளடக்கம் ஆதரிக்கப்படவில்லை.</string>
+    <string name="status_pending">கோப்பு பரிமாற்றம் இன்னும் தொடங்கவில்லை.</string>
+    <string name="status_protocol_error">கோரிக்கை சரியாக கையாளப்படவில்லை.</string>
+    <string name="status_running">கோப்பு இடமாற்றம் நடைபெறுகிறது.</string>
+    <string name="status_success">கோப்பு பரிமாற்றம் வெற்றி.</string>
+    <string name="status_unknown_error">தெரியாத பிழை.</string>
+    <string name="upload_fail_line1">\"%1$s\" க்கு கோப்பு அனுப்பப்படவில்லை.</string>
+    <string name="upload_line1">பெறுநர்: \"%1$s\"</string>
+    <string name="upload_line5">கோப்பை அனுப்புகிறது…</string>
+    <string name="upload_succ_line5">கோப்பு அனுப்பப்பட்டது</string>
+</resources>

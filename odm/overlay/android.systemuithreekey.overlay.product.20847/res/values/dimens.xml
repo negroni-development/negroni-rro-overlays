@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="three_key_down_dialog_position">410.0px</dimen>
+    <dimen name="three_key_middle_dialog_position">280.0px</dimen>
+    <dimen name="three_key_up_dialog_position">150.0px</dimen>
+</resources>

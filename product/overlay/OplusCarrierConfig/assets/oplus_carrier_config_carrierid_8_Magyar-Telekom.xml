@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string name="default_vm_number_string">+36309888444</string>
+    <boolean name="show_iccid_in_sim_status_bool" value="true"/>
+    <!-- tulika.snehil@NETWORK.REG.2362884,2021/10/22,Customize WFC name as per latest ISD -->
+    <string name="wfc_spn_customize">WiFi Hang</string>
+
+    <!-- Start, LinkZhang@NETWORK.SMS, 2021/10/08, refactor for add UST carrier -->
+    <boolean name="force_build_mms_over_wifi_apns" value="true" />
+    <!-- End, LinkZhang@NETWORK.SMS, 2021/10/08, refactor for add UST carrier -->
+
+    <!-- harshit.saini@IN.NW.IMS, OPPO-2118206, HD Icon Not To Be Shown in Dialer UI, 2021/09/08, start -->
+    <boolean name="display_hd_audio_property_bool" value="false"/>
+    <boolean name="wifi_calls_can_be_hd_audio" value="false"/>
+    <boolean name="gsm_cdma_calls_can_be_hd_audio" value="false"/>
+    <!--wen.ye@NETWORK.MMS.590448,2020/11/10, Google Message config for DTAG.hu.withSpn-->
+    <boolean name="smsUsesSimpleCharactersOnly" value="false"/>
+    <boolean name="allowEnablingWapPushSI" value="false"/>
+    <boolean name="enableWapPushSI" value="true"/>
+</carrier_config>

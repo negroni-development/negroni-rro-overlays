@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">Файл алынат. Билдирмелер тактасынан жүрүшүн байкап турсаңыз болот.</string>
+    <string name="bt_toast_2">Файлды алуу мүмкүн эмес.</string>
+    <string name="download_cancel">Токтотуу</string>
+    <string name="download_fail_ok">OK</string>
+    <string name="download_line1">Жөнөтүүчү: \"%1$s\"</string>
+    <string name="download_line3">Файл өлчөмү: %1$s</string>
+    <string name="download_line5">Файл алынууда…</string>
+    <string name="download_ok">Жашыруу</string>
+    <string name="download_succ_line5">Файл алынды</string>
+    <string name="enabling_progress_content">Bluetooth жандырылууда…</string>
+    <string name="inbound_noti_title">Bluetooth бөлүшүү: Алынган файлдар</string>
+    <string name="incoming_file_confirm_Notification_title">Кирүүчү файл</string>
+    <string name="incoming_file_confirm_cancel">Баш тартуу</string>
+    <string name="notification_received">Bluetooth бөлүшүү: %1$s алынды</string>
+    <string name="notification_received_fail">Bluetooth бөлүшүү: %1$s алынган жок</string>
+    <string name="notification_receiving">Bluetooth бөлүшүү: %1$s алынууда</string>
+    <string name="notification_sending">Bluetooth бөлүшүү: %1$s жөнөтүлүүдө</string>
+    <string name="notification_sent">Bluetooth бөлүшүү: %1$s жөнөтүлдү</string>
+    <string name="notification_sent_fail">Bluetooth бөлүшүү: %1$s жөнөтүлгөн жок</string>
+    <string name="outbound_noti_title">Bluetooth бөлүшүү: Файлдар жөнөтүлдү</string>
+    <string name="status_canceled">Өткөрүү колдонуучу тарабынан токтотулду.</string>
+    <string name="status_file_error">Сактагычта маселе бар.</string>
+    <string name="status_forbidden">Алуучу түзмөк өткөрүүгө тыюу салды.</string>
+    <string name="status_not_accept">Мазмун колдоого алынбайт.</string>
+    <string name="status_pending">Файл өткөрүү баштала элек.</string>
+    <string name="status_protocol_error">Сурамды туура иштетүү мүмкүн эмес.</string>
+    <string name="status_running">Файл өткөрүү жүрүүдө.</string>
+    <string name="status_success">Файл өткөрүү ийгиликтүү аяктады.</string>
+    <string name="status_unknown_error">Белгисиз ката.</string>
+    <string name="upload_fail_line1">Файл бул алуучуга жөнөтүлгөн жок: \"%1$s\".</string>
+    <string name="upload_line1">Алуучу: \"%1$s\"</string>
+    <string name="upload_line5">Файл жөнөтүлүүдө…</string>
+    <string name="upload_succ_line5">Файл жөнөтүлдү</string>
+</resources>

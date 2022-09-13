@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <int-array name="lte_rsrp_thresholds_int_array" num="4">
+        <item value="-126" />  <!-- SIGNAL_STRENGTH_POOR -->
+        <item value="-113" />  <!-- SIGNAL_STRENGTH_MODERATE -->
+        <item value="-105" />  <!-- SIGNAL_STRENGTH_GOOD -->
+        <item value="-97" />  <!-- SIGNAL_STRENGTH_GREAT -->
+    </int-array>
+    <string name="default_vm_number_string">1417</string>
+    <boolean name="config_oplus_hide_3g_2g" value="true" />
+    <boolean name="support_ims_conference_call_bool" value="false" />
+    <string  name="carrier_ims_user_agent"> OPPO_[M]</string>
+    <int name="carrier_customized_nricon_config" value="5" />
+</carrier_config>

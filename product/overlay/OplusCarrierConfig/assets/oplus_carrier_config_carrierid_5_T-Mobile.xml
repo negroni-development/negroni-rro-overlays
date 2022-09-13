@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string name="default_vm_number_string">+31624001233</string>
+    <boolean name="enabledMMS" value="false"/>
+    <boolean name="enableWapPushSI" value="true"/>
+    <boolean name="smsUsesSimpleCharactersOnly" value="true"/>
+    <boolean name="config_oplus_hide_callbarring_change_passwd" value="true" />
+    <boolean name="carrier_default_data_roaming_enabled_bool" value="true"/>
+    <boolean name="editable_voicemail_number_bool" value="false"/>
+    <!-- #ifdef OPLUS_BUG_COMPATIBILITY -->
+    <!-- LULIN@NETWORK.IMS.2443325, 2021/11/04, Set wfc carriername as NL T-Mobile as required -->
+    <int name="wfc_spn_format_idx_int" value="0" />
+    <!-- #endif OPLUS_BUG_COMPATIBILITY -->
+    <boolean name="show_iccid_in_sim_status_bool" value="true"/>
+    <boolean name="editable_wfc_roaming_mode_bool" value="true"/>
+    <!-- Yilong.Zhao@NETWORK.SIM.1554697, 2021/05/21, Show VowifiCallPrefer，[OCR.446260.33.DTAG.NL] -->
+    <boolean name="editable_wfc_mode_bool" value="true"/>
+    <boolean name="config_oplus_hide_cancel_all_callbarring" value="true" />
+    <boolean name="config_oplus_hide_callbarring_change_passwd" value="true" />
+</carrier_config>

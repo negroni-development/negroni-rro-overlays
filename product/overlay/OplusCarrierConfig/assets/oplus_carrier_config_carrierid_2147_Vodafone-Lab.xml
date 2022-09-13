@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string name="wfc_spn_customize">Vodafone WiFi Calling</string>
+    <!--#ifdef OPLUS_BUG_COMPATIBILITY-->
+    <!--Luoguangzhou@NETWORK.IMS.3341882,2022/03/17,Show IMS registration status in sim card status-->
+    <boolean name="show_ims_registration_status_bool" value="true"/>
+    <!-- #endif /* OPLUS_BUG_COMPATIBILITY */ -->
+</carrier_config>

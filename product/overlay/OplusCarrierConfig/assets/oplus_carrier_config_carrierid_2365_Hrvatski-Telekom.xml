@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string name="default_vm_number_string">+38598151100</string>
+    <boolean name="show_iccid_in_sim_status_bool" value="true"/>
+    <boolean name="editable_wfc_roaming_mode_bool" value="true"/>
+    <boolean name="allowEnablingWapPushSI" value="false"/>
+    <boolean name="enableWapPushSI" value="true"/>
+    <boolean name="smsUsesSimpleCharactersOnly" value="true"/>
+    <boolean name="enableMultipartSMS" value="true"/>
+    <int name="smsToMmsTextThreshold" value="-1"/>
+    <!-- #ifdef OPLUS_BUG_COMPATIBILITY-->
+    <!-- lulin@NETWORK.CALL.1981786, 2022/04/28, Changed wfc_spn for DTAG operator on WFC -->
+    <string name="wfc_spn_customize">HT HR WiFi</string>
+    <!-- #endif OPLUS_BUG_COMPATIBILITY-->
+</carrier_config>

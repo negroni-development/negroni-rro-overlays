@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">Tekið verður á móti skránni. Fylgstu með framvindunni í tilkynningaglugganum.</string>
+    <string name="bt_toast_2">Ekki er hægt að taka á móti skránni.</string>
+    <string name="download_cancel">Stöðva</string>
+    <string name="download_fail_ok">Í lagi</string>
+    <string name="download_line1">Frá: „%1$s“</string>
+    <string name="download_line3">Skráarstærð: %1$s</string>
+    <string name="download_line5">Tekur á móti skrá…</string>
+    <string name="download_ok">Fela</string>
+    <string name="download_succ_line5">Skrá móttekin</string>
+    <string name="enabling_progress_content">Kveikir á Bluetooth…</string>
+    <string name="inbound_noti_title">Bluetooth-deiling: Mótteknar skrár</string>
+    <string name="incoming_file_confirm_Notification_title">Skrá á innleið</string>
+    <string name="incoming_file_confirm_cancel">Hafna</string>
+    <string name="notification_received">Bluetooth-deiling: Skráin %1$s var móttekin</string>
+    <string name="notification_received_fail">Bluetooth-deiling: Skráin %1$s var ekki móttekin</string>
+    <string name="notification_receiving">Bluetooth-deiling: Tekur á móti %1$s</string>
+    <string name="notification_sending">Bluetooth-deiling: Sendir %1$s</string>
+    <string name="notification_sent">Bluetooth-deiling: Skráin %1$s var send</string>
+    <string name="notification_sent_fail">Bluetooth-deiling: Skráin %1$s var ekki send</string>
+    <string name="outbound_noti_title">Bluetooth-deiling: Sendar skrár</string>
+    <string name="status_canceled">Notandi hætti við flutninginn.</string>
+    <string name="status_file_error">Vandamál með geymslu.</string>
+    <string name="status_forbidden">Viðtökutækið bannaði flutninginn.</string>
+    <string name="status_not_accept">Efnið er ekki stutt.</string>
+    <string name="status_pending">Skráaflutningur er enn ekki hafinn.</string>
+    <string name="status_protocol_error">Ekki er hægt að afgreiða beiðnina á réttan hátt.</string>
+    <string name="status_running">Skráaflutningur er í gangi.</string>
+    <string name="status_success">Skráaflutningi er lokið.</string>
+    <string name="status_unknown_error">Óþekkt villa.</string>
+    <string name="upload_fail_line1">„%1$s“ fékk skrána ekki senda.</string>
+    <string name="upload_line1">Til: „%1$s“</string>
+    <string name="upload_line5">Sendir skrá…</string>
+    <string name="upload_succ_line5">Skrá send</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <!-- lijiang1@NETWORK.CFG.44151,2020/11/11 -->
+    <string name="wfc_spn_customize">o2 – de WLAN</string>
+    <int name="maxMessageSize" value="614400"/>
+    <boolean name="smsUsesSimpleCharactersOnly" value="true"/>
+    <boolean name="smsEncodingChangeable" value="true"/>
+    <boolean name="carrier_show_ims_conference_list_without_cep_config" value="true"/>
+    <boolean name="config_oplus_sms_ims_support_bool" value="true" />
+</carrier_config>

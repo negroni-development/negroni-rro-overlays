@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">ફાઇલ પ્રાપ્ત થશે. સૂચનાઓ પેનલમાં પ્રગતિ તપાસો.</string>
+    <string name="bt_toast_2">ફાઇલ પ્રાપ્ત કરી શકાતી નથી.</string>
+    <string name="download_cancel">રોકો</string>
+    <string name="download_fail_ok">ઓકે</string>
+    <string name="download_line1">દ્વારા: \"%1$s\"</string>
+    <string name="download_line3">ફાઇલનું કદ: %1$s</string>
+    <string name="download_line5">ફાઇલ પ્રાપ્ત થઈ રહી છે ...</string>
+    <string name="download_ok">છુપાવો</string>
+    <string name="download_succ_line5">ફાઇલ પ્રાપ્ત</string>
+    <string name="enabling_progress_content">બ્લૂટૂથ ચાલુ કરી રહ્યું છે…</string>
+    <string name="inbound_noti_title">બ્લૂટૂથ શેર: પ્રાપ્ત ફાઇલો</string>
+    <string name="incoming_file_confirm_Notification_title">આવનારી ફાઇલ</string>
+    <string name="incoming_file_confirm_cancel">નકારો</string>
+    <string name="notification_received">બ્લૂટૂથ શેર: %1$s પ્રાપ્ત</string>
+    <string name="notification_received_fail">બ્લૂટૂથ શેર: ફાઇલ %1$s પ્રાપ્ત થઈ નથી</string>
+    <string name="notification_receiving">બ્લૂટૂથ શેર: %1$s પ્રાપ્ત કરી રહ્યું છે</string>
+    <string name="notification_sending">બ્લૂટૂથ શેર: %1$s મોકલી રહ્યું છે</string>
+    <string name="notification_sent">બ્લૂટૂથ શેર: %1$s મોકલી</string>
+    <string name="notification_sent_fail">બ્લૂટૂથ શેર: ફાઇલ %1$s મોકલાઈ નથી</string>
+    <string name="outbound_noti_title">બ્લૂટૂથ શેર: મોકલેલી ફાઇલો</string>
+    <string name="status_canceled">વપરાશકર્તા દ્વારા સ્થાનાંતરણ રદ.</string>
+    <string name="status_file_error">સંગ્રહ સમસ્યા.</string>
+    <string name="status_forbidden">સ્થાનાંતરણ લક્ષિત ઉપકરણ દ્વારા પ્રતિબંધિત.</string>
+    <string name="status_not_accept">સામગ્રી સમર્થિત નથી.</string>
+    <string name="status_pending">ફાઇલ સ્થાનાંતરણ હજી પ્રારંભ થયું નથી.</string>
+    <string name="status_protocol_error">વિનંતી યોગ્ય રીતે હેન્ડલ કરી શકાતી નથી.</string>
+    <string name="status_running">ફાઇલ સ્થાનાંતરણ ચાલુ છે.</string>
+    <string name="status_success">ફાઇલ સ્થાનાંતરણ સફળતાપૂર્વક પૂર્ણ થયું.</string>
+    <string name="status_unknown_error">અજાણી ભૂલ.</string>
+    <string name="upload_fail_line1">ફાઇલ \"%1$s\" ને મોકલાઈ નહોતી.</string>
+    <string name="upload_line1">પ્રતિ: \"%1$s\"</string>
+    <string name="upload_line5">ફાઇલ મોકલી રહ્યું છે…</string>
+    <string name="upload_succ_line5">ફાઇલ મોકલી</string>
+</resources>

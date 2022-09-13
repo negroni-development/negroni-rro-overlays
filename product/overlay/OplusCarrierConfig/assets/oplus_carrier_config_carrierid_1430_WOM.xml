@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <!--MengXiangPeng@NETWORK.DATA.2130941 ADD for roaming request -->
+    <string-array name="non_roaming_operator_string_array" num="4">
+        <item value="73001"/>
+        <item value="73002"/>
+        <item value="73003"/>
+        <item value="73023"/>
+    </string-array>
+</carrier_config>

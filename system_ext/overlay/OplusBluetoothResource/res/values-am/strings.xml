@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">ፋይሉ ይደርሳል።በማሳወቂያ ውስን ቦታ ውስጥ ሂደቱን ይመልከቱ።</string>
+    <string name="bt_toast_2">ፋይሉን መቀበል አይቻልም::</string>
+    <string name="download_cancel">ቁም</string>
+    <string name="download_fail_ok">እሺ</string>
+    <string name="download_line1">ከ: \"%1$s\"</string>
+    <string name="download_line3">የፋይል መጠን፡%1$s</string>
+    <string name="download_line5">ፋይል በመቀበል ላይ....</string>
+    <string name="download_ok">ደብቅ</string>
+    <string name="download_succ_line5">ፋይል ደርሷል</string>
+    <string name="enabling_progress_content">ብሉቱዝ በማብራት ላይ...</string>
+    <string name="inbound_noti_title">ብሉቱዝ ማጋሪያ፡ የደረሱ ፋይሎች</string>
+    <string name="incoming_file_confirm_Notification_title">ገቢ ፋይል</string>
+    <string name="incoming_file_confirm_cancel">አትቀበል</string>
+    <string name="notification_received">ብሉቱዝ ማጋሪያ፡ %1$s ደርሷል</string>
+    <string name="notification_received_fail">ብሉቱዝ ማጋሪያ፡ ፋይል%1$s አልደረሰም</string>
+    <string name="notification_receiving">ብሉቱዝ ማጋሪያ፡ %1$s እየተቀበለ</string>
+    <string name="notification_sending">ብሉቱዝ ማጋሪያ፡ %1$s እየላከ</string>
+    <string name="notification_sent">ብሉቱዝ ማጋሪያ፡ %1$s ልኳል</string>
+    <string name="notification_sent_fail">ብሉቱዝ ማጋሪያ፡ ፋይል %1$s አልተላከም</string>
+    <string name="outbound_noti_title">ብሉቱዝ ማጋሪያ፡ የተላኩ ፋይሎች</string>
+    <string name="status_canceled">ዝውውር በተጠቃሚ ተትቷል::</string>
+    <string name="status_file_error">የማከማቻ ጉዳይ</string>
+    <string name="status_forbidden">ይህ ዝውውር በታለመው መሣሪያ የተከለከለ ነው።</string>
+    <string name="status_not_accept">ይዘቱ አይደገፍም።</string>
+    <string name="status_pending">የፋይል ዝውውር ገና አልተጀመረም::</string>
+    <string name="status_protocol_error">ጥየቃውን በትክክል መያዝ አይቻልም።</string>
+    <string name="status_running">የፋይል ዝውውር በመካሄድ ላይ ነው::</string>
+    <string name="status_success">የፋይል ዝውውሩ በተሳካ ሁኔታ ተጠናቋል::</string>
+    <string name="status_unknown_error">ያልታወቀ ስህተት</string>
+    <string name="upload_fail_line1">ፋይሉ ወደ \"%1$s\" አልተላከም ነበር።</string>
+    <string name="upload_line1">ለ: \"%1$s\"</string>
+    <string name="upload_line5">ፋይል በመላክ ላይ...</string>
+    <string name="upload_succ_line5">ፋይል ተልኳል</string>
+</resources>

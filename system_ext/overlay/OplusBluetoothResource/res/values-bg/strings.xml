@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">Файлът ще бъде получен. Проверете хода в панела за известия.</string>
+    <string name="bt_toast_2">Файлът не може да бъде получен.</string>
+    <string name="download_cancel">Стоп</string>
+    <string name="download_fail_ok">OK</string>
+    <string name="download_line1">От: „%1$s“</string>
+    <string name="download_line3">Размер на файла: %1$s</string>
+    <string name="download_line5">Файлът се получава...</string>
+    <string name="download_ok">Скриване</string>
+    <string name="download_succ_line5">Файлът е получен</string>
+    <string name="enabling_progress_content">Bluetooth се включва...</string>
+    <string name="inbound_noti_title">Споделяне чрез Bluetooth: Получени файлове</string>
+    <string name="incoming_file_confirm_Notification_title">Входящ файл</string>
+    <string name="incoming_file_confirm_cancel">Отхвърляне</string>
+    <string name="notification_received">Споделяне чрез Bluetooth: %1$s се получи</string>
+    <string name="notification_received_fail">Споделяне чрез Bluetooth: Файлът %1$s не е получен</string>
+    <string name="notification_receiving">Споделяне чрез Bluetooth: %1$s се получава</string>
+    <string name="notification_sending">Споделяне чрез Bluetooth: %1$s се изпраща</string>
+    <string name="notification_sent">Споделяне чрез Bluetooth: %1$s се изпрати</string>
+    <string name="notification_sent_fail">Споделяне чрез Bluetooth: Файлът %1$s не е изпратен</string>
+    <string name="outbound_noti_title">Споделяне чрез Bluetooth: Изпратени файлове</string>
+    <string name="status_canceled">Прехвърлянето бе анулирано от потребителя.</string>
+    <string name="status_file_error">Проблем с хранилището.</string>
+    <string name="status_forbidden">Прехвърлянето е забранено от целевото устройство.</string>
+    <string name="status_not_accept">Съдържанието не се поддържа.</string>
+    <string name="status_pending">Прехвърлянето на файла още не е започнало.</string>
+    <string name="status_protocol_error">Заявката не може да бъде обработена правилно.</string>
+    <string name="status_running">Извършва се прехвърляне на файл.</string>
+    <string name="status_success">Прехвърлянето на файла завърши успешно.</string>
+    <string name="status_unknown_error">Неизвестна грешка.</string>
+    <string name="upload_fail_line1">Файлът не бе изпратен до %1$s.</string>
+    <string name="upload_line1">До: „%1$s“</string>
+    <string name="upload_line5">Файлът се изпраща...</string>
+    <string name="upload_succ_line5">Файлът е изпратен</string>
+</resources>

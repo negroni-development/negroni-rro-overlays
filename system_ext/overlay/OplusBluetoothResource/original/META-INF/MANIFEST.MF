@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 35sFwzCV7mXEklF5LwKU2CgQ7Ju3w9NrE34k1PaWj2E=
+
+Name: assets/accessible/res/values/colors.xml
+SHA-256-Digest: yD5noZq1ijexJgOPX5Qa2ncUoXXVWr3Zs0zEFkVLVds=
+
+Name: resources.arsc
+SHA-256-Digest: T33QGptZjR/PgQTOV5FNqHzW0uT0hNUwYnnxNGUb0cI=
+

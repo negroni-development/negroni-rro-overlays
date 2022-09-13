@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="config_captive_portal_fallback_urls" id="0x7f010000" />
+    <public type="array" name="config_default_dns_servers" id="0x7f010003" />
+    <public type="array" name="config_captive_portal_http_urls" id="0x7f010001" />
+    <public type="array" name="config_captive_portal_https_urls" id="0x7f010002" />
+    <public type="bool" name="config_dhcp_client_hostname" id="0x7f020000" />
+    <public type="bool" name="config_no_sim_card_uses_neighbor_mcc" id="0x7f020001" />
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">Файл буде отримано. Перевіряйте прогрес на панелі сповіщень.</string>
+    <string name="bt_toast_2">Неможливо отримати файл.</string>
+    <string name="download_cancel">Зупин.</string>
+    <string name="download_fail_ok">OK</string>
+    <string name="download_line1">Від: \"%1$s\"</string>
+    <string name="download_line3">Розмір файлу: %1$s</string>
+    <string name="download_line5">Отримання файлу...</string>
+    <string name="download_ok">Сховати</string>
+    <string name="download_succ_line5">Файл отримано</string>
+    <string name="enabling_progress_content">Увімкнення Bluetooth...</string>
+    <string name="inbound_noti_title">Через Bluetooth: отримані файли</string>
+    <string name="incoming_file_confirm_Notification_title">Вхідний файл</string>
+    <string name="incoming_file_confirm_cancel">Відхилити</string>
+    <string name="notification_received">Через Bluetooth: отримано %1$s</string>
+    <string name="notification_received_fail">Через Bluetooth: файл %1$s не отримано</string>
+    <string name="notification_receiving">Через Bluetooth: отримання %1$s</string>
+    <string name="notification_sending">Через Bluetooth: надсилання %1$s</string>
+    <string name="notification_sent">Через Bluetooth: надісл. %1$s</string>
+    <string name="notification_sent_fail">Через Bluetooth: файл %1$s не надісл.</string>
+    <string name="outbound_noti_title">Через Bluetooth: надісл. файли</string>
+    <string name="status_canceled">Передавання скасовано користувачем.</string>
+    <string name="status_file_error">Проблема зі зберіганням.</string>
+    <string name="status_forbidden">Передавання заборонено цільовим пристроєм.</string>
+    <string name="status_not_accept">Вміст не підтримується.</string>
+    <string name="status_pending">Передавання файлів ще не почалося.</string>
+    <string name="status_protocol_error">Запит неможливо обробити належним чином.</string>
+    <string name="status_running">Виконується передавання файлів.</string>
+    <string name="status_success">Передавання файлів здійснено.</string>
+    <string name="status_unknown_error">Невідома помилка.</string>
+    <string name="upload_fail_line1">Файл не надіслано на пристрій \"%1$s\".</string>
+    <string name="upload_line1">Кому: \"%1$s\"</string>
+    <string name="upload_line5">Надсил-ня файлу...</string>
+    <string name="upload_succ_line5">Файл надіслано</string>
+</resources>

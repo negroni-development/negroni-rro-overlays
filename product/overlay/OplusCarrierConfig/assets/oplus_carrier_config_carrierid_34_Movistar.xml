@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string name="default_vm_number_string">22123</string>
+    <boolean name="groupChatDefaultsToMMS" value="false"/>
+    <boolean name="mmsRoamingAutoRetrieveByDefault" value="false"/>
+    <boolean name="smsUsesSimpleCharactersOnly" value="true"/>
+    <boolean name="smsEncodingChangeable" value="true"/>
+    <boolean name="config_oplus_sms_ims_support_bool" value="true" />
+    <boolean name="display_hd_audio_property_bool" value="false"/>
+    <string-array name="carrier_metered_roaming_apn_types_strings" num="3">
+        <item value="default" />
+        <item value="dun" />
+        <item value="supl" />
+   </string-array>
+   <!--Peng.Ma@NETWORK.CONFIG.46008,2020/05/19, Add for Telefonica ES config, means 5 at all not include User init -->
+   <int name="ims_conference_size_limit_int" value="4"/>
+   <!-- ZhangMingHui@NETWORK.REG.CONFIG.468419,2020/10/10 -->
+   <!--add for call barring without password, [OCR.1278079.1.Telefonica.ES] -->
+   <boolean name="config_oplus_ut_support_bool" value="true" />
+   <!-- LULIN@NETWORK.CALL.CONFIG.1466092,2021/05/12,Add for Movistar call hold default config, [OCR.1273278.1.Telefonica.ES] -->
+   <boolean name="allow_hold_video_call_bool" value="false"/>
+</carrier_config>

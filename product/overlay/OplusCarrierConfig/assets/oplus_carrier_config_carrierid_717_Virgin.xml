@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <!-- #ifdef OPLUS_BUG_COMPATIBILITY -->
+    <!-- harshit.saini@IN.NW.CALL, 2303325, SPN On WFC Changed -->
+    <string name="wfc_spn_customize">WiFiCall</string>
+    <!-- #endif OPLUS_BUG_COMPATIBILITY -->
+    <string-array name="carrier_metered_apn_types_strings" num="4">
+        <item value="default" />
+        <item value="mms" />
+        <item value="dun" />
+        <item value="supl" />
+    </string-array>
+    <!-- #ifdef OPLUS_BUG_COMPATIBILITY -->
+    <!-- mukunda.erla@IN.NW.DATA.2406733, MMS should work only when mobile data is ON -->
+    <string-array name="carrier_metered_roaming_apn_types_strings" num="4">
+        <item value="default" />
+        <item value="dun" />
+        <item value="mms" />
+        <item value="supl" />
+    </string-array>
+    <!-- #endif OPLUS_BUG_COMPATIBILITY -->
+</carrier_config>

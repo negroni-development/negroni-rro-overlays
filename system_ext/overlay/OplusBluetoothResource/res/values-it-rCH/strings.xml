@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_receiving_title">Ricezione in corso...</string>
+    <string name="download_title_fail">Trasferimento file non riuscito</string>
+    <string name="download_title_success">File trasferito correttamente</string>
+    <string name="oplus_bluetooth_exceed_file_max_number">Invio non riuscito. Il numero totale di file da inviare supera 300.</string>
+    <string name="oplus_bluetooth_sdcard_app_name">File ricevuti da Bluetooth</string>
+    <string name="oplus_bluetooth_sdcard_beam_space_not_enough_content">Android Beam utilizza il Bluetooth per il trasferimento dei file. È possibile interrompere la memorizzazione dei file ricevuti tramite Bluetooth nella scheda SD.</string>
+    <string name="oplus_bluetooth_sdcard_beam_space_not_enough_title">Memoria scheda SD insufficiente per ricevere file</string>
+    <string name="oplus_bluetooth_sdcard_format_4GB_limit">Il sistema di formattazione della scheda SD supporta solo file di dimensioni inferiori a 4 GB.</string>
+    <string name="oplus_bluetooth_sdcard_know">Annulla</string>
+    <string name="oplus_bluetooth_sdcard_space_not_enough">Memoria insufficiente della scheda SD. Passare a una diversa posizione di archiviazione in SD Card Manager.</string>
+    <string name="oplus_bluetooth_sdcard_to_set">Impostazioni</string>
+    <string name="oplus_bluetooth_sdcard_unmount">La scheda SD è stata rimossa.</string>
+    <string name="oplus_bt_enable_ok">Accendi</string>
+    <string name="oplus_bt_sm_2_1_sdcard">Memoria della scheda SD insufficiente per salvere i file da «%1$s».</string>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="incoming_file_confirm_Notification_title">File in arrivo</string>
+</resources>

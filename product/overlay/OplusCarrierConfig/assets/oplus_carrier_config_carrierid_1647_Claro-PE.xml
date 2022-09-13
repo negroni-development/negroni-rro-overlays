@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <int name="maxMessageSize" value="1048576"/>
+    <boolean name="smsUsesSimpleCharactersOnly" value="true"/>
+    <boolean name="smsEncodingChangeable" value="true"/>
+    <!--SongMin@NETWORK.IMS.2129407, 2021/09/07, add voicemail persistent-->
+    <boolean name="voicemail_notification_persistent_bool" value="true" />
+    <!-- MengXiangPeng@NETWORK.DATA.2129199, 2021/09/06, add voicemail -->
+    <string name="default_vm_number_string">131</string>
+</carrier_config>

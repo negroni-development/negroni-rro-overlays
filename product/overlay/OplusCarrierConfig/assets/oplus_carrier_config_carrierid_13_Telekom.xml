@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <!-- harshit.saini@IN.NW.IMS, OPPO-2137194, Added Voicemail Number For Telekom MK, 2021/09/07, start -->
+    <string name="default_vm_number_string">+38970121212</string>
+    <!-- harshit.saini@IN.NW.IMS, OPPO-2137194, Added Voicemail Number For Telekom MK, 2021/09/07, start -->
+</carrier_config>

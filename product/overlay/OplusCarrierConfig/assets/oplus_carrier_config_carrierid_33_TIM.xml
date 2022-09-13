@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string name="default_vm_number_string">41919</string>
+    <!-- #ifdef OPLUS_FEATURE_CARRIER_CONFIG -->
+    <!-- YangFang@NETWORK.SMS.2775864,2021/12/23, Add for set smsToMmsTextThreshold for IT-TIM-->
+    <int name="smsToMmsTextThreshold" value="4"/>
+    <!-- #endif OPLUS_FEATURE_CARRIER_CONFIG -->
+</carrier_config>

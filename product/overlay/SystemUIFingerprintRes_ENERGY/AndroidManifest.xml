@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="31" android:compileSdkVersionCodename="12" package="com.android.systemui.overlay.fingerprint.anim.energy" platformBuildVersionCode="31" platformBuildVersionName="12">
+    <overlay android:category="category.systemui.fingerprint.anim" android:priority="1000" android:targetPackage="com.android.systemui"/>
+    <application android:allowBackup="false" android:extractNativeLibs="false" android:hasCode="false" android:label="@string/app_name_101">
+        <meta-data android:name="order" android:value="100"/>
+        <meta-data android:name="fingerprint_name" android:value="@string/name"/>
+        <meta-data android:name="entrance_preview_icon" android:resource="@drawable/preview_icon"/>
+        <meta-data android:name="fingerprint_icon" android:resource="@drawable/icon"/>
+        <meta-data android:name="fingerprint_anim" android:resource="@raw/anim"/>
+        <meta-data android:name="fingerprint_sound" android:resource="@raw/front_finger_sound"/>
+    </application>
+</manifest>

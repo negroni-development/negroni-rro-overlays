@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string-array name="carrier_metered_roaming_apn_types_strings" num="3">
+        <item value="default" />
+        <item value="dun" />
+        <item value="supl" />
+    </string-array>
+    <string name="default_vm_number_string">+48790200200</string>
+    <int name="wfc_spn_format_idx_int" value="1" />
+    <int name="smsToMmsTextThreshold" value="6"/>
+    <boolean name="mmsRoamingAutoRetrieveByDefault" value="false"/>
+    <!-- YangZhaoJi@NETWORK.DATA.782143, 2020/12/14, roaming switch enabled by default for ee command -->
+    <boolean name="carrier_default_data_roaming_enabled_bool" value="true"/>
+    <!-- KangJIn@NETWORK.SMS.1114786, 2021/05/19 , enable group chat mms as network requierment for play -->
+    <boolean name="enableGroupMms" value="true"/>
+    <boolean name="groupChatDefaultsToMMS" value="false"/>
+</carrier_config>

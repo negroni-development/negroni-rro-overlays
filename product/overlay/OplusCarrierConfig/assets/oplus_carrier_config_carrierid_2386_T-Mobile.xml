@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <!-- harshit.saini@IN.NW.IMS, Changed Voicemail Number & Made Uneditbale, OPPO-2128406, 2021/09/06, start-->
+    <string name="default_vm_number_string">+31624001233</string>
+    <boolean name="editable_voicemail_number_setting_bool" value="false"/>
+    <!-- harshit.saini@IN.NW.IMS, Changed Voicemail Number & Made Uneditbale, OPPO-2128406, 2021/09/06, end-->
+    <boolean name="smsUsesSimpleCharactersOnly" value="true"/>
+    <!-- #ifdef OPLUS_BUG_COMPATIBILITY-->
+    <!-- lulin@NETWORK.CALL.1981786, 2022/04/28, Changed wfc_spn for DTAG operator on WFC -->
+    <int name="wfc_spn_format_idx_int" value="0" />
+    <!-- #endif OPLUS_BUG_COMPATIBILITY-->
+    <boolean name="enableWapPushSI" value="false"/>
+    <boolean name="enabledMMS" value="false"/>
+    <boolean name="show_iccid_in_sim_status_bool" value="true"/>
+    <boolean name="config_oplus_hide_callbarring_change_passwd" value="true" />
+    <boolean name="carrier_default_data_roaming_enabled_bool" value="true"/>
+    <boolean name="editable_wfc_roaming_mode_bool" value="true"/>
+    <boolean name="config_oplus_hide_cancel_all_callbarring" value="true" />
+    <boolean name="config_oplus_hide_callbarring_change_passwd" value="true" />
+</carrier_config>

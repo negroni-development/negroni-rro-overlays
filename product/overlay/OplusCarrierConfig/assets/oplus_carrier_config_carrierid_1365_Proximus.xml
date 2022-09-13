@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string name="default_vm_number_string">+32475151969</string>
+    <int name="httpSocketTimeout" value="300000"/>
+</carrier_config>

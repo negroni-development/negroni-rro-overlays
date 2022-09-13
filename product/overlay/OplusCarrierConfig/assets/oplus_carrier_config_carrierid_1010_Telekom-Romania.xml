@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+   <string name="default_vm_number_string">+40766177177</string>
+   <boolean name="tty_supported_bool" value="true" />
+   <boolean name="show_iccid_in_sim_status_bool" value="true"/>
+   <!--wen.ye@NETWORK.MMS.44259,2020/11/10, Google Message config for DTAG.ro-->
+   <boolean name="smsUsesSimpleCharactersOnly" value="true"/>
+   <boolean name="allowEnablingWapPushSI" value="false"/>
+   <boolean name="enableWapPushSI" value="true"/>
+   <!--LuLin@PSW.NW.MBN.3044482, 2020/08/03,smsToMmsTextThreshold for Telekom-RO-->
+   <int name="smsToMmsTextThreshold" value="10"/>
+</carrier_config>

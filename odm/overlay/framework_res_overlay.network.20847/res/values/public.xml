@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="config_telephonyEuiccDeviceCapabilities" id="0x7f010000" />
+    <public type="string" name="config_ntpServer" id="0x7f020002" />
+    <public type="string" name="config_mms_user_agent" id="0x7f020000" />
+    <public type="string" name="config_mms_user_agent_profile_url" id="0x7f020001" />
+</resources>

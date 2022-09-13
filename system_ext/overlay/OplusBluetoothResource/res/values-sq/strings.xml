@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">Skedari do të pranohet. Kontrollo ecurinë në panelin \"Njoftimet\".</string>
+    <string name="bt_toast_2">Ky skedar nuk mund të pranohet.</string>
+    <string name="download_cancel">Ndalo</string>
+    <string name="download_fail_ok">Në rregull!</string>
+    <string name="download_line1">Nga: \"%1$s\"</string>
+    <string name="download_line3">Madhësia e skedarit: %1$s</string>
+    <string name="download_line5">Po merr skedarin…</string>
+    <string name="download_ok">Fshih</string>
+    <string name="download_succ_line5">Skedari u mor</string>
+    <string name="enabling_progress_content">Po aktivizon bluetooth-in…</string>
+    <string name="inbound_noti_title">Shpërndarja përmes bluetooth-it: Skedarët e pranuar</string>
+    <string name="incoming_file_confirm_Notification_title">Skedari në ardhje</string>
+    <string name="incoming_file_confirm_cancel">Refuzo</string>
+    <string name="notification_received">Shpërndarja përmes bluetooth-it: U pranua skedari %1$s</string>
+    <string name="notification_received_fail">Shpërndarja përmes bluetooth-it: Skedari %1$s nuk u pranua</string>
+    <string name="notification_receiving">Shpërndarja përmes bluetooth-it: Po merret skedari %1$s</string>
+    <string name="notification_sending">Shpërndarja përmes bluetooth-it: Po dërgohet skedari %1$s</string>
+    <string name="notification_sent">Shpërndarja përmes Bluetooth-it: Skedari %1$s u dërgua</string>
+    <string name="notification_sent_fail">Shpërndarja përmes Bluetooth-it: Skedari %1$s nuk u dërgua</string>
+    <string name="outbound_noti_title">Shpërndarja përmes Bluetooth-it: Skedarët e dërguar</string>
+    <string name="status_canceled">Transferimi u anulua nga përdoruesi.</string>
+    <string name="status_file_error">Problem me hapësirën ruajtëse.</string>
+    <string name="status_forbidden">Transferimi ndalohet nga pajisja pritëse.</string>
+    <string name="status_not_accept">Përmbajtja nuk mbështetet</string>
+    <string name="status_pending">Transferimi i skedarit nuk ka filluar ende.</string>
+    <string name="status_protocol_error">Kërkesa nuk mund të trajtohet si duhet.</string>
+    <string name="status_running">Transferimi i skedarit është duke u kryer.</string>
+    <string name="status_success">Transferimi i skedarit përfundoi me sukses.</string>
+    <string name="status_unknown_error">Gabim i panjohur.</string>
+    <string name="upload_fail_line1">Skedari nuk u dërgua te \"%1$s\".</string>
+    <string name="upload_line1">Për: \"%1$s\"</string>
+    <string name="upload_line5">Po dërgon skedarin…</string>
+    <string name="upload_succ_line5">Skedari u dërgua</string>
+</resources>

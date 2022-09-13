@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string-array name="ims_reasoninfo_mapping_string_array" num="1">
+        <item value="341|user location mapping does not exist|364"/>
+    </string-array>
+    <!--ifdef OPLUS_BUG_COMPATIBILITY -->
+    <!--Surendra.Lodhi@NETWORK.CALL.3103283, 2022/03/21, Prevent sending set CLIR as not supported by operator -->
+    <boolean name="prevent_clir_activation_and_deactivation_code_bool" value="true" />
+    <!--endif /*OPLUS_BUG_COMPATIBILITY*/ -->
+</carrier_config>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_captive_portal_fallback_urls">
+        <item>http://play.googleapis.com/generate_204</item>
+        <item>http://conn-service-us-03.allawnos.com/generate204</item>
+        <item>http://conn-service-us-05.allawnos.com/generate204</item>
+    </string-array>
+    <string-array name="config_default_dns_servers">
+        <item>8.8.8.8</item>
+        <item>208.67.222.222</item>
+    </string-array>
+</resources>

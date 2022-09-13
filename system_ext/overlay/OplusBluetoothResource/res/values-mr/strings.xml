@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pairing_ui_package">com.oplus.wirelesssettings</string>
+    <string name="bt_toast_1">फाइल मिळेल. सूचना पॅनेल मधील प्रगती तपासा.</string>
+    <string name="bt_toast_2">फाइल प्राप्त होऊ शकत नाही.</string>
+    <string name="download_cancel">थांबा</string>
+    <string name="download_fail_ok">ठीक</string>
+    <string name="download_line1">प्रेेषक: \"%1$s\"</string>
+    <string name="download_line3">फाइल आकार: %1$s</string>
+    <string name="download_line5">फाइल प्राप्त करत आहे...</string>
+    <string name="download_ok">लपवा</string>
+    <string name="download_succ_line5">फाइल प्राप्त केली</string>
+    <string name="enabling_progress_content">ब्लूटूथ सुरू करत आहे…</string>
+    <string name="inbound_noti_title">ब्लूटूथ शेअर: मिळवलेल्‍या फाइल</string>
+    <string name="incoming_file_confirm_Notification_title">येणारी फाईल</string>
+    <string name="incoming_file_confirm_cancel">नकार द्या</string>
+    <string name="notification_received">ब्लूटूथ शेअर: %1$s प्राप्त केली</string>
+    <string name="notification_received_fail">ब्लूटूथ शेअर: %1$s फाइल प्राप्त केली नाही</string>
+    <string name="notification_receiving">ब्लूटूथ शेअर: %1$s मिळवत आहे</string>
+    <string name="notification_sending">ब्लूटूथ शेअर: %1$s पाठवत आहे</string>
+    <string name="notification_sent">ब्लूटूथ शेअर: %1$s पाठवली</string>
+    <string name="notification_sent_fail">ब्लूटूथ शेअर: %1$s फाइल पाठवली नाही</string>
+    <string name="outbound_noti_title">ब्लूटूथ शेअर: पाठवलेल्या फाइल</string>
+    <string name="status_canceled">वापरकर्त्याने स्‍थानांतरण रद्द केले.</string>
+    <string name="status_file_error">संचयन समस्‍या.</string>
+    <string name="status_forbidden">लक्ष्‍य डिव्‍हाइसद्वारे स्‍थानांतरण निषिद्ध केले.</string>
+    <string name="status_not_accept">सामग्री समर्थित नाही.</string>
+    <string name="status_pending">फाइल स्थानांतरणाचा अद्याप प्रारंभ झाला नाही.</string>
+    <string name="status_protocol_error">विनंती योग्य रीतीने हाताळली जाऊ शकत नाही.</string>
+    <string name="status_running">फाइल स्थानांतर सुरू आहे.</string>
+    <string name="status_success">फाइल स्थानांतरण यशस्वीरित्या पूर्ण झाले.</string>
+    <string name="status_unknown_error">अज्ञात एरर</string>
+    <string name="upload_fail_line1">\"%1$s\" वर फाइल पाठविली नाही.</string>
+    <string name="upload_line1">प्रति: \"%1$s\"</string>
+    <string name="upload_line5">फाइल पाठवत आहे…</string>
+    <string name="upload_succ_line5">फाइल पाठविली</string>
+</resources>

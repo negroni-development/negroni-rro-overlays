@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <string name="default_vm_number_string">3311</string>
+    <boolean name="smsUsesSimpleCharactersOnly" value="true"/>
+    <boolean name="allowEnablingWapPushSI" value="true"/>
+    <boolean name="enableWapPushSI" value="true"/>
+    <!-- #ifdef OPLUS_FEATURE_CARRIER_CONFIG -->
+    <!-- DingNeng@NETWORK.MMS.2355460, 2021/10/19, update to true -->
+    <boolean name="enableMultipartSMS" value="true"/>
+    <!-- #endif OPLUS_FEATURE_CARRIER_CONFIG -->
+    <boolean name="display_hd_audio_property_bool" value="false"/>
+    <int name="wfc_spn_format_idx_int" value="2" />
+    <boolean name="show_iccid_in_sim_status_bool" value="true"/>
+    <boolean name="carrier_wfc_supports_ims_preferred_bool" value="true" />
+    <string  name="carrier_ims_user_agent">OPPO_[M]_[S]</string>
+</carrier_config>
